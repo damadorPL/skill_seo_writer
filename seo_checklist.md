@@ -385,4 +385,4 @@ _______________
 
 ---
 
-**Pamiętaj:** Ta checklist to minimum. Nie każdy punkt będzie relevant dla każdej treści. Używaj rozsądku i dostosuj do kontekstu.
+**Pamiętaj:** Ta checklista to minimum. Nie każdy punkt będzie odpowiedni dla każdej treści. Używaj rozsądku i dostosuj do kontekstu.

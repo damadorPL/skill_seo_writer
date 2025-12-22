@@ -98,10 +98,10 @@
 - Anglicyzmy OK jeśli powszechnie używane (landing page, bounce rate)
 - Tłumaczenie jeśli polski termin jest popularny (wyszukiwarka > search engine)
 
-**English materiały:**
+**English:**
 - American spelling (optimize, analyze)
-- Bardziej direct i zwięźle
-- Mniej kontekstu, szybciej do sedna
+- Bardziej bezpośrednio i zwięźle
+- Mniej kontekstu, szybciej do sedna (to the point)
 
 ---
 
@@ -411,7 +411,3 @@ Jeśli treść zawiera:
 - Ahrefs Blog (tone i struktura)
 - Shopify Blog (e-commerce focus)
 - Moz Blog (technical depth)
-
----
-
-**Pytania?** Skontaktuj się z [osoba odpowiedzialna] - [email]

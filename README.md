@@ -30,7 +30,7 @@ Ten folder zawiera kompletny zestaw plików konfiguracyjnych do pracy z agentami
 - Głos w różnych kontekstach (blog, LinkedIn, opisy)
 - Słownictwo (co używać, czego unikać)
 - Przykłady dobre vs złe
-- Checklist przed publikacją
+- Checklista przed publikacją
 
 **Kiedy używać:**
 - Przy każdej treści (agent sprawdza czy ton jest spójny)
@@ -66,7 +66,7 @@ Ten folder zawiera kompletny zestaw plików konfiguracyjnych do pracy z agentami
 **Kiedy używać:**
 - Podczas onboardingu zespołu
 - Przy większych projektach (rebranding, new products)
-- Jako reference dla agencji zewnętrznych
+- Jako "reference" dla agencji zewnętrznych
 
 ### 5. **content_templates.md** - Gotowe szablony
 **6 gotowych szablonów dla różnych typów treści.**

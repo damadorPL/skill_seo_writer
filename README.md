@@ -315,5 +315,6 @@ A: Tak! Markdown guidelines działają z każdym LLM (GPT-5, Gemini, itp.)
 ## Autor
 
 Krzysztof Radzikowski SEO/SEM R&D 
+
 [Strona autora](https://radzikow.ski)
 

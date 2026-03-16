@@ -1,316 +1,316 @@
-# 📚 SEO Content Writer - Claude Code Skill
+# 📚 SEO Content Writer - Skill dla Claude Code
 
-A professional SEO content creation skill for Claude Code, following the 2026 standard skill format.
+Profesjonalny skill do tworzenia treści SEO dla Claude Code, zgodny ze standardem 2026.
 
-## Overview
+## Przegląd
 
-This skill transforms Claude into an expert content marketing and SEO specialist, capable of creating high-quality content for digital marketing and e-commerce. It provides comprehensive guidelines for writing blog articles, LinkedIn posts, product descriptions, case studies, and more - all optimized for both readers and search engines.
+Ten skill przekształca Claude w eksperta content marketingu i SEO, zdolnego do tworzenia wysokiej jakości treści dla digital marketingu i e-commerce. Zapewnia kompleksowe wytyczne do pisania artykułów blogowych, postów na LinkedIn, opisów produktów, case studies i więcej - wszystko zoptymalizowane zarówno dla czytelników, jak i wyszukiwarek.
 
-## Features
+## Funkcjonalności
 
-- ✅ **SEO-Optimized Content Creation** - Blog posts, articles, landing pages
-- ✅ **Social Media Content** - LinkedIn posts, Twitter threads
-- ✅ **E-commerce Content** - Product descriptions, category pages
-- ✅ **Business Content** - Case studies, whitepapers, newsletters
-- ✅ **Brand Voice Consistency** - Follows detailed tone of voice guidelines
-- ✅ **Comprehensive SEO Checklist** - 10-section optimization guide
-- ✅ **Ready-to-Use Templates** - 6 content templates included
+- ✅ **Tworzenie treści zoptymalizowanych pod SEO** - Posty blogowe, artykuły, landing pages
+- ✅ **Treści Social Media** - Posty na LinkedIn, wątki na Twitterze
+- ✅ **Treści E-commerce** - Opisy produktów, strony kategorii
+- ✅ **Treści Biznesowe** - Case studies, whitepapers, newslettery
+- ✅ **Spójność głosu marki** - Zgodnie ze szczegółowymi wytycznymi tone of voice
+- ✅ **Kompleksowa checklista SEO** - 10-sekcyjny przewodnik optymalizacji
+- ✅ **Gotowe szablony** - 6 szablonów treści w zestawie
 
-## Installation
+## Instalacja
 
-### For Claude Code (2026 Standard)
+### Dla Claude Code (Standard 2026)
 
-1. Clone this repository into your Claude Code skills directory:
+1. Sklonuj to repozytorium do katalogu skills Claude Code:
 
 ```bash
 cd ~/.claude/skills/
 git clone https://github.com/damadorPL/skill_seo_writer.git seo-content-writer
 ```
 
-2. Or manually copy the skill:
+2. Lub skopiuj skill ręcznie:
 
 ```bash
-# Download and extract
+# Pobierz i rozpakuj
 curl -L https://github.com/damadorPL/skill_seo_writer/archive/main.zip -o seo-writer.zip
 unzip seo-writer.zip
 mv skill_seo_writer-main ~/.claude/skills/seo-content-writer
 ```
 
-3. Restart Claude Code or reload skills:
+3. Zrestartuj Claude Code lub przeładuj skills:
 
 ```bash
-# Claude Code will auto-detect the new skill
+# Claude Code automatycznie wykryje nowy skill
 claude-code --reload-skills
 ```
 
-### For Other AI Platforms
+### Dla innych platform AI
 
-This skill follows the open SKILL.md standard and is compatible with:
+Ten skill jest zgodny z otwartym standardem SKILL.md i działa z:
 - Claude Code
 - Codex
-- ChatGPT (with skill support)
-- Any tool supporting the SKILL.md format
+- ChatGPT (z obsługą skills)
+- Każdym narzędziem obsługującym format SKILL.md
 
-## Usage
+## Użycie
 
-### Trigger Phrases
+### Frazy aktywujące
 
-The skill activates automatically when you use phrases like:
-- "write seo content"
-- "create blog post"
-- "seo article"
+Skill aktywuje się automatycznie, gdy użyjesz fraz takich jak:
+- "napisz treść seo"
+- "stwórz post blogowy"
+- "artykuł seo"
 - "content marketing"
-- "write linkedin post"
-- "product description"
+- "napisz post linkedin"
+- "opis produktu"
 
-### Manual Invocation
-
-```bash
-# Using Claude Code
-claude-code "Use the seo-content-writer skill to create a blog post about 'AI in Content Marketing'"
-
-# Or explicitly invoke
-claude-code "@seo-content-writer Write a comprehensive guide on technical SEO"
-```
-
-## Example Use Cases
-
-### 1. Blog Article Creation
+### Ręczne wywołanie
 
 ```bash
-claude-code "Write an SEO-optimized blog article about 'Content Marketing Trends 2026'
-- Target keyword: content marketing trends
-- Length: 2000-2500 words
-- Include data and statistics
-- Follow the How-To Guide template"
+# Używając Claude Code
+claude-code "Użyj skill seo-content-writer aby stworzyć post blogowy o 'AI w Content Marketingu'"
+
+# Lub jawne wywołanie
+claude-code "@seo-content-writer Napisz kompleksowy przewodnik o technical SEO"
 ```
 
-### 2. LinkedIn Post
+## Przykładowe zastosowania
+
+### 1. Tworzenie artykułu blogowego
 
 ```bash
-claude-code "Create a LinkedIn post about the importance of Core Web Vitals
-- Use the B2B tone
-- Include a case study example
-- Add relevant hashtags"
+claude-code "Napisz zoptymalizowany pod SEO artykuł blogowy o 'Trendy w Content Marketingu 2026'
+- Słowo kluczowe: trendy content marketing
+- Długość: 2000-2500 słów
+- Uwzględnij dane i statystyki
+- Użyj szablonu How-To Guide"
 ```
 
-### 3. Product Description
+### 2. Post na LinkedIn
 
 ```bash
-claude-code "Write a product description for 'SEO Audit Service'
-- Target audience: B2B companies
-- Include benefits and specifications
-- Optimize for 'seo audit service' keyword"
+claude-code "Stwórz post na LinkedIn o znaczeniu Core Web Vitals
+- Użyj tonu B2B
+- Dodaj przykład case study
+- Dodaj odpowiednie hashtagi"
 ```
 
-### 4. Content Audit
+### 3. Opis produktu
 
 ```bash
-claude-code "Audit this article against the SEO checklist
-and provide specific improvement recommendations"
+claude-code "Napisz opis produktu dla 'Usługa audytu SEO'
+- Grupa docelowa: firmy B2B
+- Uwzględnij korzyści i specyfikację
+- Zoptymalizuj pod słowo 'audyt seo'"
 ```
 
-## Skill Structure (2026 Standard)
+### 4. Audyt treści
+
+```bash
+claude-code "Przeprowadź audyt tego artykułu względem checklisty SEO
+i podaj konkretne rekomendacje ulepszeń"
+```
+
+## Struktura skilla (Standard 2026)
 
 ```
 .claude/skills/seo-content-writer/
-├── SKILL.md                    # Main skill file with YAML frontmatter
-└── references/                 # Supporting reference files
-    ├── tone_of_voice.md       # Brand voice and style guidelines
-    ├── brand_guidelines.md    # Complete brand guidelines
-    ├── seo_checklist.md       # 10-section SEO optimization checklist
-    └── content_templates.md   # 6 ready-to-use content templates
+├── SKILL.md                    # Główny plik skilla z YAML frontmatter
+└── references/                 # Pliki referencyjne
+    ├── tone_of_voice.md       # Wytyczne głosu marki i stylu
+    ├── brand_guidelines.md    # Kompleksowe wytyczne marki
+    ├── seo_checklist.md       # 10-sekcyjna checklista optymalizacji SEO
+    └── content_templates.md   # 6 gotowych szablonów treści
 ```
 
-## Reference Files
+## Pliki referencyjne
 
 ### tone_of_voice.md
-Defines the brand's communication style with three pillars:
-- **Konkretny** (Concrete) - Use specific numbers and data
-- **Pomocny** (Helpful) - Focus on value, not selling
-- **Przemyślany** (Thoughtful) - Data-driven, not reactive
+Definiuje styl komunikacji marki z trzema filarami:
+- **Konkretny** - Używaj konkretnych liczb i danych
+- **Pomocny** - Skup się na wartości, nie sprzedaży
+- **Przemyślany** - Oparty na danych, nie reaktywny
 
 ### brand_guidelines.md
-Complete brand guidelines including:
-- Brand identity and values
-- Voice & tone across channels
-- Writing style and vocabulary
-- Content pillars
-- Quality standards
+Kompleksowe wytyczne marki zawierające:
+- Tożsamość i wartości marki
+- Głos i ton w różnych kanałach
+- Styl pisania i słownictwo
+- Filary treści
+- Standardy jakości
 
 ### seo_checklist.md
-Comprehensive 10-section SEO checklist:
-1. Keyword Research
-2. Content Structure
-3. On-Page SEO
-4. Technical SEO
-5. Internal Linking
-6. External Linking
-7. Readability
+Kompleksowa 10-sekcyjna checklista SEO:
+1. Badanie słów kluczowych
+2. Struktura treści
+3. SEO On-Page
+4. SEO techniczne
+5. Linkowanie wewnętrzne
+6. Linkowanie zewnętrzne
+7. Czytelność
 8. User Experience
-9. Meta Tags & Schema
-10. Post-Publishing
+9. Meta tagi i Schema
+10. Po publikacji
 
 ### content_templates.md
-6 ready-to-use templates:
-1. Blog Post (How-To Guide)
-2. Data-Driven Report/Study
+6 gotowych szablonów:
+1. Post blogowy (Przewodnik How-To)
+2. Raport/Badanie oparte na danych
 3. Case Study
-4. LinkedIn Post (3 formats)
+4. Post na LinkedIn (3 formaty)
 5. Newsletter
-6. Product/Service Description
+6. Opis produktu/usługi
 
-## Customization
+## Personalizacja
 
-You can customize this skill for your specific needs:
+Możesz dostosować ten skill do swoich potrzeb:
 
-### 1. Modify Brand Voice
-Edit `.claude/skills/seo-content-writer/references/tone_of_voice.md` to match your brand's style.
+### 1. Modyfikacja głosu marki
+Edytuj `.claude/skills/seo-content-writer/references/tone_of_voice.md` aby dopasować do stylu twojej marki.
 
-### 2. Update SEO Standards
-Edit `seo_checklist.md` to reflect your organization's SEO requirements.
+### 2. Aktualizacja standardów SEO
+Edytuj `seo_checklist.md` aby odzwierciedlić wymagania SEO twojej organizacji.
 
-### 3. Add Custom Templates
-Add new templates to `content_templates.md` for your specific content types.
+### 3. Dodanie własnych szablonów
+Dodaj nowe szablony do `content_templates.md` dla swoich specyficznych typów treści.
 
-### 4. Adjust Skill Triggers
-Edit the YAML frontmatter in `SKILL.md` to add custom trigger phrases:
+### 4. Dostosowanie fraz aktywujących
+Edytuj YAML frontmatter w `SKILL.md` aby dodać własne frazy aktywujące:
 
 ```yaml
 triggers:
-  - "write seo content"
-  - "your custom trigger"
+  - "napisz treść seo"
+  - "twoja własna fraza"
 ```
 
-## Workflow Example
+## Przykładowy workflow
 
-### Complete Content Creation Process
+### Kompletny proces tworzenia treści
 
 ```bash
-# Step 1: Research and Planning
-claude-code "Research the topic 'Technical SEO for E-commerce'
-- Analyze top 10 Google results
-- Identify content gaps
-- Suggest outline"
+# Krok 1: Research i planowanie
+claude-code "Zbadaj temat 'Technical SEO dla E-commerce'
+- Przeanalizuj top 10 wyników w Google
+- Zidentyfikuj luki w treści
+- Zaproponuj outline"
 
-# Step 2: Create Brief
-claude-code "Create a content brief based on the research"
+# Krok 2: Stwórz brief
+claude-code "Stwórz brief treści na podstawie researchu"
 
-# Step 3: Write Content
-claude-code "Write the article following the brief and SEO checklist"
+# Krok 3: Napisz treść
+claude-code "Napisz artykuł zgodnie z briefem i checklistą SEO"
 
-# Step 4: Optimize
-claude-code "Review the article against seo_checklist.md
-and optimize point by point"
+# Krok 4: Optymalizuj
+claude-code "Przejrzyj artykuł względem seo_checklist.md
+i zoptymalizuj punkt po punkcie"
 
-# Step 5: Final Review
-claude-code "Perform final quality check against all guidelines"
+# Krok 5: Finalna weryfikacja
+claude-code "Przeprowadź finalną kontrolę jakości względem wszystkich wytycznych"
 ```
 
-## Quality Standards
+## Standardy jakości
 
-Content created with this skill follows strict quality criteria:
-- ✅ Concrete (numbers, examples, no generalities)
-- ✅ Helpful (actionable next steps)
-- ✅ Honest (realistic expectations)
-- ✅ Concise (no fluff)
-- ✅ Clear (explained terminology)
-- ✅ Credible (sourced claims)
-- ✅ Actionable (practical takeaways)
+Treści tworzone z użyciem tego skilla spełniają rygorystyczne kryteria jakości:
+- ✅ Konkretne (liczby, przykłady, bez ogólników)
+- ✅ Pomocne (wykonalne następne kroki)
+- ✅ Uczciwe (realistyczne oczekiwania)
+- ✅ Zwięzłe (bez pustosłowia)
+- ✅ Jasne (wyjaśniona terminologia)
+- ✅ Wiarygodne (źródła dla twierdzeń)
+- ✅ Wykonalne (praktyczne wnioski)
 
-## Language Support
+## Wsparcie językowe
 
-### Polish (Primary)
-- Uses "Ty" form (informal but professional)
-- Active voice
-- Short, clear sentences
-- Accepts English terms when more common
+### Polski (Podstawowy)
+- Używa formy "Ty" (nieformalnej ale profesjonalnej)
+- Strona czynna
+- Krótkie, jasne zdania
+- Akceptuje terminy angielskie gdy są powszechniejsze
 
-### English (Secondary)
-- American spelling
-- Direct and concise
-- Action-oriented
+### Angielski (Drugorzędny)
+- Ortografia amerykańska
+- Bezpośredni i zwięzły
+- Zorientowany na działanie
 
-## Performance Metrics
+## Metryki wydajności
 
-Expected improvements when using this skill:
-- **Efficiency**: 40% faster content creation
-- **Consistency**: 60% improvement in brand voice consistency
-- **Quality**: SEO score average 85+/100
-- **Readability**: Flesch Reading Ease 60-70
+Oczekiwane ulepszenia przy użyciu tego skilla:
+- **Wydajność**: 40% szybsze tworzenie treści
+- **Spójność**: 60% poprawa spójności głosu marki
+- **Jakość**: Średni wynik SEO 85+/100
+- **Czytelność**: Flesch Reading Ease 60-70
 
-## Contributing
+## Współpraca
 
-Contributions are welcome! To contribute:
+Zachęcamy do współpracy! Aby wnieść wkład:
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Update documentation
-5. Submit a pull request
+1. Zforkuj repozytorium
+2. Stwórz branch funkcji
+3. Wprowadź zmiany
+4. Zaktualizuj dokumentację
+5. Wyślij pull request
 
-## Compatibility
+## Kompatybilność
 
-- **Claude Code**: Full support (2026 standard)
-- **Claude.ai Skills**: Compatible
-- **Codex**: Compatible with SKILL.md format
-- **ChatGPT**: Compatible (with skill support)
-- **Other platforms**: Any tool supporting the SKILL.md standard
+- **Claude Code**: Pełne wsparcie (standard 2026)
+- **Claude.ai Skills**: Kompatybilny
+- **Codex**: Kompatybilny z formatem SKILL.md
+- **ChatGPT**: Kompatybilny (z obsługą skills)
+- **Inne platformy**: Każde narzędzie obsługujące standard SKILL.md
 
-## Version History
+## Historia wersji
 
-- **2026.1.0** - Initial release with 2026 standard format
-  - SKILL.md with YAML frontmatter
-  - Directory-based structure
-  - Cross-platform compatibility
-  - Updated for latest SEO best practices
+- **2026.1.0** - Pierwsze wydanie w formacie standardu 2026
+  - SKILL.md z YAML frontmatter
+  - Struktura oparta na katalogach
+  - Kompatybilność cross-platform
+  - Zaktualizowane o najnowsze praktyki SEO
 
-## License
+## Licencja
 
-MIT License - See LICENSE file for details
+Licencja MIT - Zobacz plik LICENSE dla szczegółów
 
-## Author
+## Autor
 
-**Krzysztof Radzikowski** - SEO/SEM R&D Specialist
+**Krzysztof Radzikowski** - Specjalista SEO/SEM R&D
 
-[Website](https://radzikow.ski)
+[Strona internetowa](https://radzikow.ski)
 
-## Support
+## Wsparcie
 
-- **Issues**: [GitHub Issues](https://github.com/damadorPL/skill_seo_writer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/damadorPL/skill_seo_writer/discussions)
+- **Problemy**: [GitHub Issues](https://github.com/damadorPL/skill_seo_writer/issues)
+- **Dyskusje**: [GitHub Discussions](https://github.com/damadorPL/skill_seo_writer/discussions)
 
-## Related Resources
+## Powiązane zasoby
 
-### Official Documentation
-- [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills)
-- [SKILL.md Format Specification](https://aiskill.market/blog/claude-code-skill-md-format)
+### Oficjalna dokumentacja
+- [Dokumentacja Claude Code Skills](https://code.claude.com/docs/en/skills)
+- [Specyfikacja formatu SKILL.md](https://aiskill.market/blog/claude-code-skill-md-format)
 
-### Learning Resources
-- [Claude Skills Comprehensive Guide 2026](https://anandbg.com/blog/claude-skills-comprehensive-guide-2026)
-- [Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+### Materiały edukacyjne
+- [Kompleksowy przewodnik po Claude Skills 2026](https://anandbg.com/blog/claude-skills-comprehensive-guide-2026)
+- [Kompletny przewodnik budowania Skills dla Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 
-### Community
+### Społeczność
 - [Agent Skills Marketplace](https://skillsmp.com/)
 - [Claude Code Skills Guide](https://fp8.co/articles/Claude-Code-Skills-Complete-Developer-Guide)
 
 ## FAQ
 
-**Q: Do I need to use all reference files every time?**
-A: No. For simple tasks, the skill automatically knows what to use. For complex projects, it will reference all guidelines.
+**P: Czy muszę używać wszystkich plików referencyjnych za każdym razem?**
+O: Nie. Dla prostych zadań skill automatycznie wie co użyć. Dla złożonych projektów będzie się odwoływał do wszystkich wytycznych.
 
-**Q: Can I share this skill with my team?**
-A: Yes! Everyone can install it in their `.claude/skills/` directory, or you can set it up in a shared workspace.
+**P: Czy mogę udostępnić ten skill mojemu zespołowi?**
+O: Tak! Każdy może go zainstalować w swoim katalogu `.claude/skills/`, lub możesz go skonfigurować we wspólnym workspace.
 
-**Q: Does this work with AI tools other than Claude?**
-A: Yes! The SKILL.md format is an open standard compatible with multiple AI platforms.
+**P: Czy to działa z innymi narzędziami AI poza Claude?**
+O: Tak! Format SKILL.md to otwarty standard kompatybilny z wieloma platformami AI.
 
-**Q: Can I customize this for my specific industry?**
-A: Absolutely! Edit the reference files to match your industry, brand, and requirements.
+**P: Czy mogę dostosować to do mojej konkretnej branży?**
+O: Absolutnie! Edytuj pliki referencyjne aby dopasować je do twojej branży, marki i wymagań.
 
-**Q: How do I update the skill?**
-A: Pull the latest changes from the repository, or use `git pull` if you cloned it.
+**P: Jak zaktualizować skill?**
+O: Pobierz najnowsze zmiany z repozytorium, lub użyj `git pull` jeśli sklonowałeś je.
 
-## Acknowledgments
+## Podziękowania
 
-Built following the 2026 Claude Code Skills standard for maximum compatibility and performance.
+Zbudowane zgodnie ze standardem Claude Code Skills 2026 dla maksymalnej kompatybilności i wydajności.

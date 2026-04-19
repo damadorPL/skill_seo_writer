@@ -1,6 +1,6 @@
 # 📚 SEO Content Writer - Skill dla Claude Code
 
-Profesjonalny skill do tworzenia treści SEO dla Claude Code, zgodny ze standardem 2026.
+Profesjonalny skill do tworzenia treści SEO dla Claude Code - mmateriał uzuepłniajacy do publickacji IAB SEMbook 2026 https://www.iab.org.pl/baza-wiedzy/sembook-2026/
 
 ## Przegląd
 
@@ -18,7 +18,7 @@ Ten skill przekształca Claude w eksperta content marketingu i SEO, zdolnego do 
 
 ## Instalacja
 
-### Dla Claude Code (Standard 2026)
+### Dla Claude Code
 
 1. Sklonuj to repozytorium do katalogu skills Claude Code:
 
@@ -110,7 +110,7 @@ claude-code "Przeprowadź audyt tego artykułu względem checklisty SEO
 i podaj konkretne rekomendacje ulepszeń"
 ```
 
-## Struktura skilla (Standard 2026)
+## Struktura skilla
 
 ```
 .claude/skills/seo-content-writer/
@@ -311,6 +311,3 @@ O: Absolutnie! Edytuj pliki referencyjne aby dopasować je do twojej branży, ma
 **P: Jak zaktualizować skill?**
 O: Pobierz najnowsze zmiany z repozytorium, lub użyj `git pull` jeśli sklonowałeś je.
 
-## Podziękowania
-
-Zbudowane zgodnie ze standardem Claude Code Skills 2026 dla maksymalnej kompatybilności i wydajności.

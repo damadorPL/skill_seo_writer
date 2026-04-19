@@ -1,6 +1,6 @@
 # 📚 SEO Content Writer - Skill dla Claude Code
 
-Profesjonalny skill do tworzenia treści SEO dla Claude Code - mmateriał uzuepłniajacy do publickacji IAB SEMbook 2026 https://www.iab.org.pl/baza-wiedzy/sembook-2026/
+Profesjonalny skill do tworzenia treści SEO dla Claude Code - materiał uzuepłniajacy do publickacji IAB SEMbook 2026 https://www.iab.org.pl/baza-wiedzy/sembook-2026/
 
 ## Przegląd
 

@@ -4,7 +4,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 
 ---
 
-## 📝 Szablon 1: Post Blogowy (Przewodnik Jak-Zrobić)
+## 📝 Szablon 1: Post blogowy (przewodnik Jak-to-zrobić)
 
 ### Struktura:
 
@@ -58,7 +58,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 
 [Powtórz strukturę]
 
-## [H2] Typowe Pułapki
+## [H2] Typowe pułapki
 
 ### [H3] Pułapka 1: [Nazwa]
 **Problem:** [Co ludzie robią źle]
@@ -66,7 +66,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 
 [Powtórz dla 2-3 pułapek]
 
-## [H2] Narzędzia i Zasoby
+## [H2] Narzędzia i zasoby
 
 **Niezbędne:**
 - [Narzędzie 1] - [Co robi] - [Link]
@@ -75,7 +75,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 **Opcjonalne, ale pomocne:**
 - [Narzędzie 3]
 
-## [H2] Mierzenie Sukcesu
+## [H2] Mierzenie sukcesu
 
 [Jakie metryki śledzić]
 
@@ -134,7 +134,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 
 ---
 
-## 📊 Szablon 2: Raport/Badanie Oparte na Danych
+## 📊 Szablon 2: Raport/badanie oparte na danych
 
 ```markdown
 # [Liczba] [Statystyk/Trendów] w [Branży] ([Rok])
@@ -202,7 +202,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 **Dlaczego te zmiany?**
 [Analiza przyczyn - 2-3 akapity]
 
-## Podział według Branży
+## Podział według branży
 
 [Jeśli dane z wielu branż]
 
@@ -210,7 +210,7 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 |--------|-----------|-----------|-------|
 | [Nazwa]| [X%]      | [Y]       | ↗️    |
 
-## Prognozy na [Następny Rok]
+## Prognozy na [następny rok]
 
 Na podstawie obecnych trendów:
 
@@ -260,7 +260,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 
 [Meta: [Klient] zwiększył [metrykę] o [X%] używając [twojego rozwiązania]. Zobacz strategię i wyniki.]
 
-## Przegląd Klienta
+## Przegląd klienta
 
 **Branża:** [Branża]
 **Wielkość firmy:** [Liczba] pracowników
@@ -302,7 +302,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 
 ## Wyniki
 
-### Podstawowe Metryki
+### Podstawowe metryki
 
 | Metryka | Przed | Po | Zmiana |
 |---------|-------|----|--------|
@@ -312,7 +312,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 
 [Wykres pokazujący trend w czasie]
 
-### Dodatkowy Wpływ
+### Dodatkowy wpływ
 
 **Zaobserwowaliśmy też:**
 - [Nieoczekiwana korzyść 1]
@@ -325,7 +325,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 - Miesiąc 3: [Co się stało]
 - Miesiąc 6: [Co się stało]
 
-## Kluczowe Wnioski
+## Kluczowe wnioski
 
 ### Co działało najlepiej:
 1. **[Taktyka]** - [Dlaczego zadziałało + wynik]
@@ -339,7 +339,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 ### Co zrobilibyśmy inaczej:
 [Szczera refleksja - 1-2 punkty]
 
-## Referencje Klienta
+## Referencje klienta
 
 > "[Dłuższy cytat o doświadczeniu i wynikach]
 > 
@@ -350,7 +350,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 > **[Pełne Imię i Nazwisko]**  
 > [Stanowisko], [Firma]
 
-## Jak To Dotyczy Ciebie
+## Jak to dotyczy ciebie
 
 [2-3 akapity o tym, kto może osiągnąć podobne rezultaty]
 
@@ -382,7 +382,7 @@ Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami 
 
 ---
 
-## 📱 Szablon 4: Post LinkedIn (Przywództwo Myślowe)
+## 📱 Szablon 4: Post LinkedIn (przywództwo myślowe)
 
 ### Format A: Narracyjny
 
@@ -424,7 +424,7 @@ Moje zdanie:
 **Czas publikacji:** Wt-Czw, 8-10 lub 16-18
 ```
 
-### Format B: Oparty na Danych/Listach
+### Format B: Oparty na danych/listach
 
 ```markdown
 [Liczba] [rzeczy] [o temacie] [w roku]:
@@ -466,7 +466,7 @@ Czego mi brakuje? 👇
 **Wskazówka:** Można dodać karuzelę z wizualizacjami
 ```
 
-### Format C: Kontrowersyjna Opinia
+### Format C: Kontrowersyjna opinia
 
 ```markdown
 Niepopularna opinia:
@@ -527,7 +527,7 @@ Cześć [Imię],
 
 ---
 
-## 📰 Główna Historia Tego Tygodnia
+## 📰 Główna historia tego tygodnia
 
 **[Nagłówek]**
 
@@ -603,7 +603,7 @@ Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie intern
 
 ---
 
-## 🏷️ Szablon 6: Opis Produktu/Usługi
+## 🏷️ Szablon 6: Opis produktu/usługi
 
 ```markdown
 # [Nazwa Produktu] - [Główna Korzyść w Jednej Linii]
@@ -624,7 +624,7 @@ Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie intern
 **Mówiąc prosto:**
 [Analogia lub prosty opis jak to działa]
 
-## Kluczowe Funkcje
+## Kluczowe funkcje
 
 ### [Nazwa Funkcji 1]
 **Co robi:** [Funkcja]
@@ -648,7 +648,7 @@ Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie intern
 - ❌ [Czynnik dyskwalifikujący 1]
 - ❌ [Czynnik dyskwalifikujący 2]
 
-## Jak To Działa
+## Jak to działa
 
 1. **[Krok 1]** - [Krótki opis]
 2. **[Krok 2]** - [Krótki opis]
@@ -656,7 +656,7 @@ Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie intern
 
 [Prosty diagram/schemat]
 
-## Wyniki, Których Możesz Oczekiwać
+## Wyniki, których możesz oczekiwać
 
 **Typowe rezultaty:**
 - [Wynik 1 z horyzontem czasowym]
@@ -713,7 +713,7 @@ Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie intern
 
 ---
 
-## 📋 Szybka Ściągawka: Kiedy Używać Jakiego Szablonu
+## 📋 Szybka ściągawka: kiedy używać jakiego szablonu
 
 | Typ Treści | Główny Cel | Szablon | Typowa Długość |
 |------------|------------|---------|----------------|
@@ -726,21 +726,21 @@ Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie intern
 
 ---
 
-## 💡 Wskazówki dla Wszystkich Szablonów
+## 💡 Wskazówki dla wszystkich szablonów
 
-### Przed Pisaniem:
+### Przed pisaniem:
 1. Zidentyfikuj 1 główny cel
 2. Określ 1 główne CTA
 3. Badanie słów kluczowych (dla treści SEO)
 4. Sprawdź co już istnieje na temat
 
-### Podczas Pisania:
+### Podczas pisania:
 1. Zacznij od konspektu
 2. Pisz szkic bez perfekcjonizmu
 3. Dodaj konkretne przykłady i dane
 4. Każda sekcja = jeden pomysł
 
-### Po Napisaniu:
+### Po napisaniu:
 1. Czytaj na głos (sprawdź płynność)
 2. Przytnij 10-20% (bądź bezlitosny)
 3. Dodaj wizualne przerwy (listy, cytaty, pogrubienia)

@@ -1,6 +1,6 @@
-# Wytyczne Marki - Treści Marketingowe
+# Wytyczne marki – treści marketingowe
 
-## 🎨 Tożsamość Marki
+## 🎨 Tożsamość marki
 
 ### Kim jesteśmy
 **[Nazwa firmy]** to [krótki opis - 1-2 zdania o firmie, misji, wizji]
@@ -29,9 +29,9 @@
 
 ---
 
-## 🗣️ Głos i Ton
+## 🗣️ Głos i ton
 
-### Podstawowe Cechy Głosu
+### Podstawowe cechy głosu
 
 **Profesjonalny, ale przystępny** (60/40)
 - Ekspercka wiedza bez elityzmu
@@ -60,9 +60,9 @@
 
 ---
 
-## ✍️ Styl Pisania
+## ✍️ Styl pisania
 
-### Struktura Zdań
+### Struktura zdań
 
 **Długość:**
 - Średnia: 15-20 słów
@@ -105,7 +105,7 @@
 
 ---
 
-## 🎯 Filary Treści
+## 🎯 Filary treści
 
 ### Trzy główne tematy, o których mówimy:
 
@@ -116,7 +116,7 @@
 - Schema markup
 - Mobile optimization
 
-**2. Strategia Treści (35% treści)**
+**2. Strategia treści (35% treści)**
 - Badanie słów kluczowych
 - Planowanie treści
 - Optymalizacja on-page
@@ -138,7 +138,7 @@
 
 ---
 
-## 📐 Styl Wizualny
+## 📐 Styl wizualny
 
 ### Typografia
 
@@ -158,7 +158,7 @@
 - Secondary color: [#kolor, np. #00CC66 - zielony dla success]
 - Accent: [#kolor, np. #FF6B35 - pomarańczowy dla CTAs]
 
-### Obrazy i Grafiki
+### Obrazy i grafiki
 
 **Styl:**
 - Jasne, czyste tło (białe lub bardzo jasne szare)
@@ -207,9 +207,9 @@ Linie separatora dla większych sekcji
 
 ---
 
-## 🏷️ Elementy Marki
+## 🏷️ Elementy marki
 
-### Użycie Logo
+### Użycie logo
 
 **Zalecenia:**
 - ✅ Używaj oficjalnej wersji z brand package
@@ -231,7 +231,7 @@ Linie separatora dla większych sekcji
 - W materiałach offline
 - NIE w każdym artykule (zbędne)
 
-### Dane Kontaktowe
+### Dane kontaktowe
 
 **Standardowy format:**
 ```
@@ -246,7 +246,7 @@ Web: www.[domain].com
 
 ---
 
-## 📢 Wytyczne dla Poszczególnych Kanałów
+## 📢 Wytyczne dla poszczególnych kanałów
 
 ### Blog
 
@@ -265,7 +265,7 @@ Web: www.[domain].com
 ❌ "Nie uwierzysz w te sekrety SEO!" (clickbait)
 ```
 
-### LinkedIn (Strona Firmowa)
+### LinkedIn (strona firmowa)
 
 **Częstotliwość:** 3-5 postów/tydzień
 **Długość:** 150-200 słów (optymalny zakres)
@@ -295,7 +295,7 @@ Web: www.[domain].com
 - Przemyślenia o branży
 - Kontrowersyjne opinie (konstruktywne)
 
-### Newsletter Email
+### Newsletter email
 
 **Częstotliwość:** Co 2 tygodnie
 **Format:** 
@@ -331,9 +331,9 @@ Web: www.[domain].com
 
 ---
 
-## ✅ Standardy Jakości
+## ✅ Standardy jakości
 
-### Checklista Przed Publikacją
+### Checklista przed publikacją
 
 **Każda treść musi:**
 - [ ] Być zweryfikowana (wszystkie dane ze źródłami)
@@ -344,7 +344,7 @@ Web: www.[domain].com
 - [ ] Być zgodna z tonem komunikacji
 - [ ] Mieć odpowiednie CTA
 
-### Sygnały Ostrzegawcze - Do przeglądu
+### Sygnały ostrzegawcze – do przeglądu
 
 Jeśli treść zawiera:
 - 🚩 "Najlepszy", "jedyny", "gwarantowany"
@@ -358,7 +358,7 @@ Jeśli treść zawiera:
 
 ## 📊 KPI - Jak mierzymy sukces
 
-### Wydajność Treści
+### Wydajność treści
 
 **Blog:**
 - Ruch organiczny na wpis
@@ -376,7 +376,7 @@ Jeśli treść zawiera:
 - Linki zwrotne do treści
 - Leady z organiku (atrybucja)
 
-### Metryki Marki
+### Metryki marki
 
 - Wolumen wyszukiwań brandowych
 - Ruch bezpośredni

@@ -1,4 +1,4 @@
-# Wytyczne Tonu Komunikacji
+# Wytyczne tonu komunikacji
 
 ## Ogólny charakter marki
 

@@ -1,12 +1,12 @@
-# Checklista SEO - Optymalizacja Treści
+# Checklista SEO – optymalizacja treści
 
-## Checklista SEO Przed Publikacją
+## Checklista SEO przed publikacją
 
 Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📋 1. Badanie Słów Kluczowych
+## 📋 1. Badanie słów kluczowych
 
 - [ ] **Główne słowo kluczowe zidentyfikowane**
   - Miesięczne wyszukiwania: ___
@@ -70,7 +70,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📝 3. Jakość Treści
+## 📝 3. Jakość treści
 
 ### Długość i głębia
 - [ ] **Długość odpowiednia do tematyki**
@@ -83,7 +83,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Pokrywa subtopics z top 3
   - Dodaje unikalną wartość
 
-### Intencja Wyszukiwania
+### Intencja wyszukiwania
 - [ ] **Treść odpowiada na intencję wyszukiwania**
   - Format: [Przewodnik / Lista / Recenzja / Porównanie / Poradnik]
   - Typ: [Informacyjny / Komercyjny / Transakcyjny]
@@ -105,9 +105,9 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 🔗 4. Linki Wewnętrzne i Zewnętrzne
+## 🔗 4. Linki wewnętrzne i zewnętrzne
 
-### Linki Wewnętrzne
+### Linki wewnętrzne
 - [ ] **3-5 linków wewnętrznych dodanych**
   - Do powiązanych treści
   - Z opisowym anchor text
@@ -117,7 +117,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Naturalnie wplecione w treść
   - Dodają wartość dla czytelnika
 
-### Linki Zewnętrzne
+### Linki zewnętrzne
 - [ ] **2-4 linki zewnętrzne do autorytetów**
   - Do źródeł danych/statystyk
   - Do definicji/badań
@@ -174,7 +174,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 🎯 7. Doświadczenie Użytkownika
+## 🎯 7. Doświadczenie użytkownika
 
 ### CTA (Call to Action)
 - [ ] **Główne CTA widoczne**
@@ -205,7 +205,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ## 🚀 8. Technical SEO
 
-### Szybkość Strony
+### Szybkość strony
 - [ ] **Core Web Vitals w normie**
   - LCP < 2.5s
   - FID < 100ms
@@ -224,7 +224,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📱 9. Optymalizacja na Potrzeby Social Media
+## 📱 9. Optymalizacja na potrzeby social media
 
 ### Open Graph
 - [ ] **OG tags dodane**
@@ -247,9 +247,9 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## ✅ 10. Ostateczna Weryfikacja
+## ✅ 10. Ostateczna weryfikacja
 
-### Weryfikacja Treści
+### Weryfikacja treści
 - [ ] **Sprawdzenie pisowni i gramatyki**
   - Grammarly / LanguageTool
   - Errors: 0
@@ -259,7 +259,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Daty są aktualne
   - Linki działają
 
-### Sprawdzenie Narzędzi SEO
+### Sprawdzenie narzędzi SEO
 - [ ] **Sprawdzony w Yoast/RankMath**
   - SEO Score > 80/100
   - Readability > 60/100
@@ -275,7 +275,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📊 Zadania Po Publikacji
+## 📊 Zadania po publikacji
 
 ### Monitoring (pierwsze 7 dni)
 - [ ] **Sprawdź indexowanie**
@@ -304,9 +304,9 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 🎯 Zaawansowane Optymalizacje (opcjonalne)
+## 🎯 Zaawansowane optymalizacje (opcjonalne)
 
-### Bogate Fragmenty (Rich Snippets)
+### Bogate fragmenty (Rich Snippets)
 - [ ] **FAQ schema dodane**
   - Minimum 3 pytania
   - Maksimum 10 pytań

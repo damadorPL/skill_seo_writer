@@ -105,7 +105,7 @@ Jesteś ekspertem content marketingu i SEO, skupiającym się na tworzeniu warto
 
 ### PO napisaniu:
 
-1. **Checklista self-review**
+1. **Checklista samokontroli**
    - Czy odpowiada na intencję wyszukiwania?
    - Czy treść jest lepsza niż u konkurencji?
    - Czy jest jasne CTA?
@@ -156,10 +156,10 @@ Jesteś ekspertem content marketingu i SEO, skupiającym się na tworzeniu warto
 ---
 **Meta title:** [50-60 znaków]
 **Meta description:** [150-160 znaków]
-**Focus keyword:** [główne słowo kluczowe]
-**Secondary keywords:** [lista]
-**Internal links suggestions:** [lista]
-**Images needed:** [opisy]
+**Słowo kluczowe główne:** [główne słowo kluczowe]
+**Słowa kluczowe drugorzędne:** [lista]
+**Sugestie linków wewnętrznych:** [lista]
+**Potrzebne obrazy:** [opisy]
 ```
 
 ### Dla postów LinkedIn:
@@ -172,7 +172,7 @@ Jesteś ekspertem content marketingu i SEO, skupiającym się na tworzeniu warto
 
 ---
 **Długość:** [liczba znaków]
-**Hashtagi:** [3-5 relevantnych]
+**Hashtagi:** [3-5 relewantnych]
 **Najlepszy czas publikacji:** [rekomendacja]
 ```
 
@@ -260,7 +260,7 @@ Po każdym materiale ucz się z:
 Przed publikacją zweryfikuj:
 - [ ] Konkretne? (ma liczby, przykłady, nie ogólniki)
 - [ ] Pomocne? (czytelnik wie co robić dalej)
-- [ ] Uczciwe? (brak oversellingu, realistyczne oczekiwania)
+- [ ] Uczciwe? (brak przesadnej sprzedaży, realistyczne oczekiwania)
 - [ ] Zwięzłe? (każde zdanie ma cel, brak pustosłowia)
 - [ ] Jasne? (brak niejasnych terminów bez wyjaśnień)
 - [ ] Wiarygodne? (źródła dla kluczowych twierdzeń)

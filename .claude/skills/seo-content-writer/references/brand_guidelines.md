@@ -1,6 +1,6 @@
-# Brand Guidelines - Marketing Content
+# Wytyczne Marki - Treści Marketingowe
 
-## 🎨 Brand Identity
+## 🎨 Tożsamość Marki
 
 ### Kim jesteśmy
 **[Nazwa firmy]** to [krótki opis - 1-2 zdania o firmie, misji, wizji]
@@ -10,45 +10,45 @@
 
 ### Dla kogo jesteśmy
 
-**Primary audience:**
+**Główna grupa docelowa:**
 - CEO i Founders e-commerce (50-500 pracowników)
 - Marketing Managers w średnich firmach
 - Wiek: 30-45 lat
-- Tech-savvy, szukają data-driven solutions
+- Obeznani z technologią, szukają rozwiązań opartych na danych
 
-**Secondary audience:**
+**Drugorzędna grupa docelowa:**
 - SEO specialists szukający zaawansowanej wiedzy
 - Content marketers chcący się rozwijać
-- Studenci i juniors (talent pipeline)
+- Studenci i juniorzy (potencjalni przyszli pracownicy)
 
 ### Co nas wyróżnia (USP)
 
-1. **Data-driven approach** - każda decyzja oparta na danych, nie przeczuciach
-2. **Transparent reporting** - klient wie dokładnie co robimy i dlaczego
+1. **Podejście oparte na danych** - każda decyzja oparta na danych, nie przeczuciach
+2. **Przejrzyste raportowanie** - klient wie dokładnie co robimy i dlaczego
 3. **E-commerce expertise** - 5+ lat wyłącznie w e-commerce, znamy specyfikę
 
 ---
 
-## 🗣️ Voice & Tone
+## 🗣️ Głos i Ton
 
-### Core Voice Attributes
+### Podstawowe Cechy Głosu
 
 **Profesjonalny, ale przystępny** (60/40)
 - Ekspercka wiedza bez elityzmu
 - Wyjaśniamy, nie pouczamy
 - "Oto jak to zrobić" > "Powinieneś to zrobić"
 
-**Szczery i transparentny** (always)
+**Szczery i transparentny** (zawsze)
 - Mówimy o ograniczeniach, nie tylko zaletach
 - "SEO trwa 6-12 miesięcy" nie "Szybkie rezultaty!"
 - Przyznajemy się do błędów i tego czego nie wiemy
 
-**Konkretny i actionable** (always)
+**Konkretny i praktyczny** (zawsze)
 - Liczby > ogólniki
 - Przykłady > teoria
 - "Zrób X, Y, Z" > "To jest ważne"
 
-### Tone w różnych sytuacjach
+### Ton w różnych sytuacjach
 
 | Sytuacja | Ton | Przykład |
 |----------|-----|----------|
@@ -56,18 +56,18 @@
 | Case study | Pewny ekspert | "Zwiększyliśmy ruch o 127% w 4 miesiące" |
 | Problem klienta | Empatyczny doradca | "Rozumiem frustrację. Oto co możemy zrobić..." |
 | Social media | Kolega z branży | "Właśnie znalazłem ciekawe..." |
-| Error/Problem | Szczery i pomocny | "Popełniliśmy błąd. Oto jak go naprawiamy..." |
+| Błąd/Problem | Szczery i pomocny | "Popełniliśmy błąd. Oto jak go naprawiamy..." |
 
 ---
 
-## ✍️ Writing Style
+## ✍️ Styl Pisania
 
-### Sentence Structure
+### Struktura Zdań
 
-**Length:**
-- Average: 15-20 słów
-- Max: 25 słów (wyjątkowo 30)
-- Mix short (5-10) with medium (15-20)
+**Długość:**
+- Średnia: 15-20 słów
+- Maks.: 25 słów (wyjątkowo 30)
+- Mieszaj krótkie (5-10) z średnimi (15-20)
 
 **Przykład dobry:**
 > Core Web Vitals to trzy metryki szybkości strony. Mierzą rzeczywiste doświadczenie użytkownika. Google używa ich jako ranking factor od 2021.
@@ -75,7 +75,7 @@
 **Przykład zły:**
 > Core Web Vitals, będące zestawem trzech kluczowych metryk wydajności strony internetowej, które zostały wprowadzone przez Google jako oficjalny czynnik rankingowy w roku 2021, mierzą rzeczywiste doświadczenie użytkownika podczas interakcji z witryną.
 
-### Vocabulary
+### Słownictwo
 
 **Preferowane wyrażenia:**
 - "Dane pokazują" > "Według nas"
@@ -91,21 +91,21 @@
 - ❌ "Game-changer"
 - ❌ "Cutting-edge technology"
 
-### Polish vs English
+### Polski vs Angielski
 
 **Polskie materiały:**
 - Per "Ty", nie "Pan/Pani"
 - Anglicyzmy OK jeśli powszechnie używane (landing page, bounce rate)
 - Tłumaczenie jeśli polski termin jest popularny (wyszukiwarka > search engine)
 
-**English:**
-- American spelling (optimize, analyze)
+**Angielski:**
+- Pisownia amerykańska (optimize, analyze)
 - Bardziej bezpośrednio i zwięźle
-- Mniej kontekstu, szybciej do sedna (to the point)
+- Mniej kontekstu, szybciej do sedna
 
 ---
 
-## 🎯 Content Pillars
+## 🎯 Filary Treści
 
 ### Trzy główne tematy, o których mówimy:
 
@@ -116,38 +116,38 @@
 - Schema markup
 - Mobile optimization
 
-**2. Content Strategy (35% treści)**
-- Keyword research
-- Content planning
-- On-page optimization
-- Content updates & refreshes
+**2. Strategia Treści (35% treści)**
+- Badanie słów kluczowych
+- Planowanie treści
+- Optymalizacja on-page
+- Aktualizacje i odświeżanie treści
 - Linkowanie wewnętrzne
 
-**3. E-commerce Specifics (25% treści)**
-- Product page optimization
-- Category pages
-- Faceted navigation
-- Reviews & UGC
-- Seasonal campaigns
+**3. Specyfika E-commerce (25% treści)**
+- Optymalizacja stron produktów
+- Strony kategorii
+- Nawigacja fasetowa
+- Recenzje i treści użytkowników (UGC)
+- Kampanie sezonowe
 
 ### Czego unikamy:
 - ❌ Link building (nie jest naszą specjalizacją)
-- ❌ Paid ads (mamy partnerów do tego)
-- ❌ Social media organic (poza LinkedIn thought leadership)
-- ❌ "Get rich quick" content
+- ❌ Reklamy płatne (mamy partnerów do tego)
+- ❌ Organiczne social media (poza eksperckim myśleniem na LinkedIn)
+- ❌ Treści "szybkiego wzbogacenia się"
 
 ---
 
-## 📐 Visual Style
+## 📐 Styl Wizualny
 
-### Typography
+### Typografia
 
 **Nagłówki:**
 - Font: [nazwa fontu, np. Inter Bold]
 - Size: H1: 32-36px, H2: 24-28px, H3: 20-22px
 - Color: #1A1A1A (dark gray, nie pure black)
 
-**Body text:**
+**Tekst główny:**
 - Font: [nazwa fontu, np. Inter Regular]
 - Size: 16-18px
 - Line height: 1.6-1.8
@@ -158,70 +158,70 @@
 - Secondary color: [#kolor, np. #00CC66 - zielony dla success]
 - Accent: [#kolor, np. #FF6B35 - pomarańczowy dla CTAs]
 
-### Images & Graphics
+### Obrazy i Grafiki
 
-**Style:**
-- Jasne, czyste tło (białe lub bardzo light gray)
-- Duży contrast dla czytelności
-- Proste ikony (outline style preferred)
-- Screenshoty z czerwonymi boxami/arrows dla explanation
+**Styl:**
+- Jasne, czyste tło (białe lub bardzo jasne szare)
+- Duży kontrast dla czytelności
+- Proste ikony (preferowany styl konturowy)
+- Zrzuty ekranu z czerwonymi ramkami/strzałkami dla wyjaśnienia
 
 **Przykłady:**
-- ✅ Clean data visualization (wykresy, tabele)
-- ✅ Annotated screenshots z naszych narzędzi
-- ✅ Simple process diagrams
-- ❌ Stock photos ludzi w biurze
-- ❌ Overly complex infographics
+- ✅ Czyste wizualizacje danych (wykresy, tabele)
+- ✅ Opatrzone adnotacjami zrzuty ekranu z naszych narzędzi
+- ✅ Proste diagramy procesów
+- ❌ Zdjęcia stockowe ludzi w biurze
+- ❌ Zbyt skomplikowane infografiki
 - ❌ Memy i gify (poza LinkedIn osobistym)
 
-### Formatting
+### Formatowanie
 
-**Dla blog posts:**
+**Dla postów blogowych:**
 ```markdown
-# H1 - Title
+# H1 - Tytuł
 
-[Intro - 2-3 akapity]
+[Wstęp - 2-3 akapity]
 
-## H2 - Main section
+## H2 - Główna sekcja
 
-Regular text with **bold for emphasis**.
+Zwykły tekst z **pogrubieniem dla podkreślenia**.
 
-### H3 - Subsection
+### H3 - Podsekcja
 
-- Bullet points
-- For lists
-- Max 7 items
+- Punkty listy
+- Dla wyliczeń
+- Maks. 7 elementów
 
-> Blockquote dla statystyk lub kluczowych cytatów
+> Cytat blokowy dla statystyk lub kluczowych cytatów
 
-1. Numbered lists
-2. Dla step-by-step
-3. Instrukcji
+1. Listy numerowane
+2. Dla instrukcji krok po kroku
+3. I poleceń
 
-`Code or tool names` w backticks
+`Kod lub nazwy narzędzi` w backtickach
 
 ---
 
-Separator lines dla większych sekcji
+Linie separatora dla większych sekcji
 ```
 
 ---
 
-## 🏷️ Brand Elements
+## 🏷️ Elementy Marki
 
-### Logo Usage
+### Użycie Logo
 
-**Do's:**
+**Zalecenia:**
 - ✅ Używaj oficjalnej wersji z brand package
 - ✅ Minimum clear space: [X]px dookoła
 - ✅ Na białym lub [color] tle
 
-**Don'ts:**
+**Zakazy:**
 - ❌ Nie rozciągaj ani nie kompresuj
 - ❌ Nie zmieniaj kolorów
 - ❌ Nie dodawaj efektów (cienie, gradienty)
 
-### Tagline
+### Slogan
 
 **Official tagline:** "[Twój tagline]"
 
@@ -229,9 +229,9 @@ Separator lines dla większych sekcji
 - Na landing pages
 - W stopkach email
 - W materiałach offline
-- NIE w każdym artykule (redundant)
+- NIE w każdym artykule (zbędne)
 
-### Contact Information
+### Dane Kontaktowe
 
 **Standardowy format:**
 ```
@@ -246,65 +246,65 @@ Web: www.[domain].com
 
 ---
 
-## 📢 Channel-Specific Guidelines
+## 📢 Wytyczne dla Poszczególnych Kanałów
 
 ### Blog
 
-**Frequency:** 2-3 artykuły/tydzień
-**Length:** 1500-2500 słów
-**Format:** Educational, data-driven
-**CTAs:** 1 główny na końcu, 1-2 w tekście dla długich artykułów
+**Częstotliwość:** 2-3 artykuły/tydzień
+**Długość:** 1500-2500 słów
+**Format:** Edukacyjny, oparty na danych
+**CTA:** 1 główny na końcu, 1-2 w tekście dla długich artykułów
 
-**Template nagłówka:**
+**Szablon nagłówka:**
 ```markdown
-# [Liczba] [Przymiotnik] [Rzeczownik] + [Benefit/Question]
+# [Liczba] [Przymiotnik] [Rzeczownik] + [Korzyść/Pytanie]
 
-✅ "7 Technical SEO Mistakes Costing You Traffic"
-✅ "How to Optimize Product Pages: Complete Guide"
-❌ "SEO Tips" (zbyt ogólne)
-❌ "You Won't Believe These SEO Secrets!" (clickbait)
+✅ "7 błędów Technical SEO, które kosztują Cię ruch"
+✅ "Jak zoptymalizować strony produktów: Kompletny przewodnik"
+❌ "Porady SEO" (zbyt ogólne)
+❌ "Nie uwierzysz w te sekrety SEO!" (clickbait)
 ```
 
-### LinkedIn (Company Page)
+### LinkedIn (Strona Firmowa)
 
-**Frequency:** 3-5 postów/tydzień
-**Length:** 150-200 słów (sweet spot)
-**Format:** Insight + data + CTA
-**Hashtags:** 3-5 relevant
+**Częstotliwość:** 3-5 postów/tydzień
+**Długość:** 150-200 słów (optymalny zakres)
+**Format:** Przemyślenie + dane + CTA
+**Hashtagi:** 3-5 trafnych
 
-**Template:**
+**Szablon:**
 ```
-[Hook - surprising stat or question]
+[Hook - zaskakująca statystyka lub pytanie]
 
 [2-3 akapity wartości]
 
-[Konkluzja + pytanie do audience]
+[Konkluzja + pytanie do odbiorców]
 
 #SEO #ECommerce #DigitalMarketing
 ```
 
-### LinkedIn (Personal - CEO/Founders)
+### LinkedIn (Osobisty - CEO/Założyciele)
 
-**Frequency:** 2-3 posty/tydzień
-**Length:** 100-300 słów
-**Format:** Bardziej osobiste, behind-the-scenes, lessons learned
-**Hashtags:** 2-3
+**Częstotliwość:** 2-3 posty/tydzień
+**Długość:** 100-300 słów
+**Format:** Bardziej osobiste, kulisy, wyciągnięte lekcje
+**Hashtagi:** 2-3
 
 **Może być bardziej ludzkie:**
-- Stories z projektów
+- Opowieści z projektów
 - Przemyślenia o branży
-- Kontrowersyjne opinie (constructive)
+- Kontrowersyjne opinie (konstruktywne)
 
-### Email Newsletter
+### Newsletter Email
 
-**Frequency:** Co 2 tygodnie
+**Częstotliwość:** Co 2 tygodnie
 **Format:** 
-- Subject: 40-50 znaków, konkretny
-- Intro: 2-3 zdania context
+- Temat: 40-50 znaków, konkretny
+- Wstęp: 2-3 zdania kontekstu
 - 3 sekcje wartości
 - 1 główny CTA
 
-**Ton:** Nieco bardziej personal niż blog
+**Ton:** Nieco bardziej osobisty niż blog
 
 ---
 
@@ -313,101 +313,101 @@ Web: www.[domain].com
 ### W treści:
 - ❌ Nie obiecujemy "gwarantowanych rezultatów"
 - ❌ Nie atakujemy konkurencji po nazwie
-- ❌ Nie używamy "negative SEO" tactics
-- ❌ Nie publikujemy bez fact-checkingu
+- ❌ Nie stosujemy taktyk "negative SEO"
+- ❌ Nie publikujemy bez weryfikacji faktów
 - ❌ Nie kopiujemy treści (nawet częściowo)
 
 ### W komunikacji:
 - ❌ Nie ignorujemy komentarzy (nawet negatywnych)
-- ❌ Nie usuwamy krytycznych opinii (odpowiadamy constructively)
-- ❌ Nie spamujemy follow-upami
+- ❌ Nie usuwamy krytycznych opinii (odpowiadamy konstruktywnie)
+- ❌ Nie zasypujemy wiadomościami follow-up
 - ❌ Nie obiecujemy niemożliwego bo "klient chce"
 
 ### W wizualce:
-- ❌ Nie używamy stock photos "people in office"
-- ❌ Nie nadużywamy emoji (max 2-3 w poście social)
-- ❌ Nie robimy walls of text bez formatowania
-- ❌ Nie publikujemy nieczytelnych screenshotów
+- ❌ Nie używamy zdjęć stockowych "people in office"
+- ❌ Nie nadużywamy emoji (maks. 2-3 w poście social)
+- ❌ Nie tworzymy ścian tekstu bez formatowania
+- ❌ Nie publikujemy nieczytelnych zrzutów ekranu
 
 ---
 
-## ✅ Quality Standards
+## ✅ Standardy Jakości
 
-### Before Publishing Checklist
+### Checklista Przed Publikacją
 
 **Każda treść musi:**
-- [ ] Być fact-checked (wszystkie dane ze źródłami)
-- [ ] Mieć minimum 1 unikalny insight (nie tylko kompilacja)
-- [ ] Być actionable (czytelnik wie co zrobić dalej)
-- [ ] Mieć dopracowany title i meta description
-- [ ] Być proofread przez 2 osobę
-- [ ] Być zgodna z tone of voice
+- [ ] Być zweryfikowana (wszystkie dane ze źródłami)
+- [ ] Mieć minimum 1 unikalny wniosek (nie tylko kompilacja)
+- [ ] Być wykonalna (czytelnik wie co zrobić dalej)
+- [ ] Mieć dopracowany tytuł i meta description
+- [ ] Być sprawdzona przez 2. osobę
+- [ ] Być zgodna z tonem komunikacji
 - [ ] Mieć odpowiednie CTA
 
-### Red Flags - Do review
+### Sygnały Ostrzegawcze - Do przeglądu
 
 Jeśli treść zawiera:
 - 🚩 "Najlepszy", "jedyny", "gwarantowany"
 - 🚩 Obietnice bez danych
 - 🚩 Zdania powyżej 30 słów
-- 🚩 Sekcje powyżej 500 słów bez subheaderów
+- 🚩 Sekcje powyżej 500 słów bez nagłówków podsekcji
 - 🚩 Zero przykładów/liczb
-- 🚩 Passive voice dominuje
+- 🚩 Strona bierna dominuje
 
 ---
 
-## 📊 KPIs - Jak mierzymy success
+## 📊 KPI - Jak mierzymy sukces
 
-### Content Performance
+### Wydajność Treści
 
 **Blog:**
-- Organic traffic per post
-- Avg. time on page > 3 min
-- Scroll depth > 60%
-- Internal link CTR > 2%
+- Ruch organiczny na wpis
+- Średni czas na stronie > 3 min
+- Głębokość przewijania > 60%
+- CTR linków wewnętrznych > 2%
 
 **LinkedIn:**
-- Engagement rate > 3%
-- Click-through rate > 1%
-- Comments > 5 per post
+- Wskaźnik zaangażowania > 3%
+- Wskaźnik kliknięć > 1%
+- Komentarze > 5 na post
 
-**Overall:**
-- Branded search volume trend ↗️
-- Backlinks do content
-- Leads z organic (attribution)
+**Ogólnie:**
+- Trend wolumenu wyszukiwań brandowych ↗️
+- Linki zwrotne do treści
+- Leady z organiku (atrybucja)
 
-### Brand Metrics
+### Metryki Marki
 
-- Branded search volume
-- Direct traffic
-- Return visitors %
-- Newsletter open rate > 25%
-- Brand mentions (unlinked)
+- Wolumen wyszukiwań brandowych
+- Ruch bezpośredni
+- % powracających odwiedzających
+- Wskaźnik otwarć newslettera > 25%
+- Wzmianki o marce (bez linku)
 
 ---
 
-## 🔄 Updates & Maintenance
+## 🔄 Aktualizacje i Utrzymanie
 
-**Ten dokument powinien być review'owany:**
+**Ten dokument powinien być przeglądany:**
 - Co kwartał (lub częściej jeśli pivot)
 - Po rebrandingu
-- Po zmianach w team/leadership
+- Po zmianach w zespole/kierownictwie
 
-**Last updated:** [data]
-**Next review:** [data]
-**Owner:** [osoba odpowiedzialna]
+**Ostatnia aktualizacja:** [data]
+**Następny przegląd:** [data]
+**Właściciel:** [osoba odpowiedzialna]
 
 ---
 
-## 📚 Resources
+## 📚 Zasoby
 
-**Internal:**
-- [Link] - Brand assets (logo pack)
-- [Link] - Content calendar
-- [Link] - Approved stock photo library
-- [Link] - Previous case studies
+**Wewnętrzne:**
+- [Link] - Zasoby marki (paczka z logo)
+- [Link] - Kalendarz treści
+- [Link] - Zatwierdzona biblioteka zdjęć stockowych
+- [Link] - Poprzednie case studies
 
-**External inspiration:**
-- Ahrefs Blog (tone i struktura)
-- Shopify Blog (e-commerce focus)
-- Moz Blog (technical depth)
+**Zewnętrzne inspiracje:**
+- Ahrefs Blog (ton i struktura)
+- Shopify Blog (fokus na e-commerce)
+- Moz Blog (głębokość techniczna)

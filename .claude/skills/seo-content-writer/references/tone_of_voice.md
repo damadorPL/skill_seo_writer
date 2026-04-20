@@ -1,4 +1,4 @@
-# Tone of Voice Guidelines
+# Wytyczne Tonu Komunikacji
 
 ## Ogólny charakter marki
 
@@ -48,8 +48,8 @@ Jesteśmy profesjonalistami, którzy dzielą się wiedzą w przystępny sposób.
 **Struktura:**
 - Rozpocznij od konkretnego problemu lub pytania
 - Przedstaw kontekst i dlaczego to ważne
-- Daj actionable solutions
-- Zakończ praktycznymi next steps
+- Daj praktyczne rozwiązania
+- Zakończ praktycznymi kolejnymi krokami
 
 **Ton:**
 - Konwersacyjny, ale profesjonalny
@@ -113,15 +113,15 @@ Jaki największy błąd widzieliście w projektach SEO?
 ### 🛍️ Opisy produktów / usług
 
 **Struktura:**
-- Benefit > Feature
+- Korzyść > Funkcja
 - Najpierw "co zyskujesz", potem "jak to działa"
 - Konkretne liczby i rezultaty
-- Social proof (jeśli dostępny)
+- Potwierdzenie społeczne (jeśli dostępne)
 
 **Ton:**
 - Bezpośredni i zwięzły
 - Mniej opowiadania, więcej konkretów
-- Skupienie na ROI i time-saving
+- Skupienie na ROI i oszczędności czasu
 
 **Przykład dobry:**
 > **Audyt SEO w 48h**
@@ -149,9 +149,9 @@ Jaki największy błąd widzieliście w projektach SEO?
 - Zidentyfikuj, dostosuj, monitoruj
 
 **Konkretne przymiotniki:**
-- Mierzalny, praktyczny, actionable
+- Mierzalny, praktyczny, wykonalny
 - Skalowalny, zautomatyzowany, efektywny
-- Sprawdzony, data-driven, realny
+- Sprawdzony, oparty na danych, realny
 
 **Wyrażenia budujące zaufanie:**
 - "Na podstawie danych z..."
@@ -161,11 +161,11 @@ Jaki największy błąd widzieliście w projektach SEO?
 
 ### ❌ Unikaj:
 
-**Corporate buzzwords:**
+**Korporacyjny żargon:**
 - Synergia, ekosystem, rewolucja
-- Game-changer, disruptive, innowacyjny
+- Przełomowy, zakłócający, innowacyjny
 - Holistyczny, strategiczny, zintegrowany
-- Cutting-edge, best-in-class
+- Najnowocześniejszy, najlepszy w swojej klasie
 
 **Przesady:**
 - Najlepszy, rewelacyjny, niesamowity
@@ -186,13 +186,13 @@ Jaki największy błąd widzieliście w projektach SEO?
 - Podsumowanie: 80-120 słów
 
 **Posty LinkedIn:**
-- Wersja krótka: 100-150 słów (quick insight)
+- Wersja krótka: 100-150 słów (szybka obserwacja)
 - Wersja długa: 200-300 słów (case study, analiza)
 
 **Opisy produktów:**
 - Nagłówek: 5-8 słów
 - Główny opis: 50-100 słów
-- Bullet points: 3-5 punktów
+- Punkty listy: 3-5 punktów
 
 ### Formatowanie
 
@@ -203,7 +203,7 @@ Jaki największy błąd widzieliście w projektach SEO?
 - Bloków cytatów dla statystyk
 
 **Przykład:**
-> 📊 **Klucz metric:**  
+> 📊 **Kluczowe metryki:**  
 > → 2.3s czas ładowania  
 > → 87% mobile usability  
 > → 23 błędy HTML
@@ -232,9 +232,9 @@ Jaki największy błąd widzieliście w projektach SEO?
 
 ### 🇬🇧 Angielski
 - Amerykański spelling (optimize, analyze, color)
-- Bardziej direct niż polski
+- Bardziej bezpośredni niż polski
 - Krótsze wstępy
-- Mniej context, więcej action
+- Mniej kontekstu, więcej działania
 
 **Dobre:**
 > Check your Core Web Vitals in Search Console. Red scores? Fix them first.
@@ -242,16 +242,16 @@ Jaki największy błąd widzieliście w projektach SEO?
 ## Przykłady do naśladowania
 
 ### Świetne artykuły (ton):
-- **Ahrefs:** Konkretny, data-driven, bez bzdur
+- **Ahrefs:** Konkretny, oparty na danych, bez bzdur
 - **CXL:** Głęboka analiza, ale przystępna
-- **Sparktoro:** Osobisty, insightful, autentyczny
+- **Sparktoro:** Osobisty, wnikliwy, autentyczny
 
 ### Świetne posty LinkedIn:
-- Ross Simmonds - storytelling + wartość
+- Ross Simmonds - narracja + wartość
 - Rand Fishkin - przemyślany, czasem kontrowersyjny
-- Areej AbuAli - technical ale przystępny
+- Areej AbuAli - techniczny ale przystępny
 
-## Red flags - czego unikać
+## Sygnały ostrzegawcze - czego unikać
 
 🚫 **Długie wprowadzenia**
 Nie: "W dzisiejszych czasach, kiedy marketing..."
@@ -259,7 +259,7 @@ Tak: "67% marketerów mówi, że SEO..."
 
 🚫 **Powtarzanie oczywistości**
 Nie: "Marketing internetowy jest ważny dla firm w internecie"
-Tak: [skip this, idź od razu do wartości]
+Tak: [pomiń to, idź od razu do wartości]
 
 🚫 **Pytania bez odpowiedzi**
 Jeśli pytasz "Jak to zrobić?", musisz odpowiedzieć
@@ -273,11 +273,11 @@ Tak: "Nasi klienci odnotowali 20-180% wzrostu ruchu w 6 miesięcy"
 Czy ten tekst jest:
 - [ ] Konkretny? (są liczby, przykłady, nie ogólniki)
 - [ ] Pomocny? (czytelnik wie co robić dalej)
-- [ ] Szczery? (nie overselling, realistyczne oczekiwania)
+- [ ] Szczery? (nie przesadna sprzedaż, realistyczne oczekiwania)
 - [ ] Zwięzły? (każde zdanie ma cel, zero waty)
 - [ ] Jasny? (nie ma niejasnych terminów bez wyjaśnień)
 - [ ] Wiarygodny? (są źródła dla kluczowych twierdzeń)
-- [ ] Actionable? (czytelnik może coś z tym zrobić)
+- [ ] Wykonalne? (czytelnik może coś z tym zrobić)
 
 Jeśli 6/7 to TAK - publikuj.
 Jeśli mniej - popraw.

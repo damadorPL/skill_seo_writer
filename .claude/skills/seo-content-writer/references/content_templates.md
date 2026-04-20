@@ -4,19 +4,19 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 
 ---
 
-## 📝 Template 1: Blog Post (How-To Guide)
+## 📝 Szablon 1: Post Blogowy (Przewodnik Jak-Zrobić)
 
 ### Struktura:
 
 ```markdown
-# How to [Osiągnąć Rezultat]: [Benefit/Timeframe]
+# Jak [Osiągnąć Rezultat]: [Korzyść/Czas realizacji]
 
-[Meta Description: 150-160 znaków z głównym słowem i benefitem]
+[Meta Description: 150-160 znaków z głównym słowem i korzyścią]
 
 ## Wprowadzenie (100-150 słów)
 
 [Pierwszy akapit - problem/ból]
-[Statystyka lub przykład showing magnitude]
+[Statystyka lub przykład pokazujący skalę problemu]
 [Co czytelnik dostanie z tego artykułu]
 
 ## Spis treści
@@ -45,10 +45,10 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 2. [Konkretna akcja]
 3. [Konkretna akcja]
 
-> 💡 **Pro tip:** [Dodatkowa rada dla advanced users]
+> 💡 **Wskazówka eksperta:** [Dodatkowa rada dla zaawansowanych użytkowników]
 
 **Przykład:**
-[Real-life przykład z liczbami]
+[Przykład z życia z liczbami]
 
 ## [H2] Krok 2: [Nazwa kroku]
 
@@ -58,45 +58,45 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 
 [Powtórz strukturę]
 
-## [H2] Common Pitfalls (Pułapki)
+## [H2] Typowe Pułapki
 
 ### [H3] Pułapka 1: [Nazwa]
 **Problem:** [Co ludzie robią źle]
-**Solution:** [Jak to naprawić]
+**Rozwiązanie:** [Jak to naprawić]
 
 [Powtórz dla 2-3 pułapek]
 
-## [H2] Tools & Resources
+## [H2] Narzędzia i Zasoby
 
-**Essential:**
+**Niezbędne:**
 - [Narzędzie 1] - [Co robi] - [Link]
 - [Narzędzie 2] - [Co robi] - [Link]
 
-**Optional but helpful:**
+**Opcjonalne, ale pomocne:**
 - [Narzędzie 3]
 
-## [H2] Measuring Success
+## [H2] Mierzenie Sukcesu
 
 [Jakie metryki śledzić]
 
-**Key metrics:**
-- [Metryka 1]: Target: [liczba]
-- [Metryka 2]: Target: [liczba]
-- [Metryka 3]: Target: [liczba]
+**Kluczowe metryki:**
+- [Metryka 1]: Cel: [liczba]
+- [Metryka 2]: Cel: [liczba]
+- [Metryka 3]: Cel: [liczba]
 
 ## Podsumowanie
 
-**Quick recap:**
-- ✅ [Key takeaway 1]
-- ✅ [Key takeaway 2]
-- ✅ [Key takeaway 3]
+**Szybkie podsumowanie:**
+- ✅ [Kluczowy wniosek 1]
+- ✅ [Kluczowy wniosek 2]
+- ✅ [Kluczowy wniosek 3]
 
-**Your action plan:**
-1. [First step do zrobienia]
-2. [Second step]
-3. [Third step]
+**Twój plan działania:**
+1. [Pierwszy krok do zrobienia]
+2. [Drugi krok]
+3. [Trzeci krok]
 
-**Next steps:** [Link do related content lub offer]
+**Kolejne kroki:** [Link do powiązanej treści lub oferty]
 
 ---
 
@@ -108,645 +108,645 @@ Gotowe szablony dla najczęstszych typów treści marketingowych.
 ### [Pytanie 2]?
 [Odpowiedź]
 
-[3-5 pytań total]
+[3-5 pytań łącznie]
 
 ---
 
-[CTA Box]
-**Need help with [temat]?**
+[Boks CTA]
+**Potrzebujesz pomocy z [temat]?**
 [Krótki pitch - 2 zdania]
-[Button: Contact us / Download guide / See case studies]
+[Przycisk: Skontaktuj się / Pobierz przewodnik / Zobacz case studies]
 
 ---
 
-**Meta Title:** How to [Action] [Benefit] - [Brand] | 55-60 chars
-**Meta Description:** Learn how to [action] with our step-by-step guide. [Benefit]. [Social proof/stat]. [CTA]. | 150-160 chars
-**URL:** /blog/how-to-[main-keyword]/
-**Focus Keyword:** [główne słowo]
-**Secondary Keywords:** [2-3 słowa]
-**Internal Links:** [3-5 related posts]
-**Images Needed:** 
-- Featured image (1200x628)
-- Diagram/infographic for process
-- Screenshots (if tutorial)
-- Checklist (downloadable bonus?)
+**Meta Title:** Jak [Akcja] [Korzyść] - [Marka] | 55-60 znaków
+**Meta Description:** Dowiedz się jak [akcja] krok po kroku. [Korzyść]. [Potwierdzenie społeczne/statystyka]. [CTA]. | 150-160 znaków
+**URL:** /blog/jak-[glowne-slowo-kluczowe]/
+**Słowo kluczowe:** [główne słowo]
+**Słowa kluczowe drugorzędne:** [2-3 słowa]
+**Linki wewnętrzne:** [3-5 powiązanych wpisów]
+**Potrzebne obrazy:** 
+- Miniatura artykułu (1200x628)
+- Diagram/infografika dla procesu
+- Zrzuty ekranu (jeśli poradnik)
+- Checklista (do pobrania jako bonus?)
 ```
 
 ---
 
-## 📊 Template 2: Data-Driven Report/Study
+## 📊 Szablon 2: Raport/Badanie Oparte na Danych
 
 ```markdown
-# [Number] [Statistics/Trends] in [Industry] ([Year])
+# [Liczba] [Statystyk/Trendów] w [Branży] ([Rok])
 
-[Meta: Original research showing [key finding]. Based on analysis of [data source].]
+[Meta: Oryginalne badania pokazujące [kluczowe odkrycie]. Na podstawie analizy [źródła danych].]
 
-## Executive Summary
+## Streszczenie
 
-**Key Findings:**
-- 🔍 [Top finding with number]
-- 📈 [Second finding]
-- ⚡ [Third finding]
+**Kluczowe Odkrycia:**
+- 🔍 [Najważniejsze odkrycie z liczbą]
+- 📈 [Drugie odkrycie]
+- ⚡ [Trzecie odkrycie]
 
-[1 akapit context - why this research matters]
+[1 akapit kontekstu - dlaczego to badanie jest ważne]
 
-## Methodology
+## Metodologia
 
-**Data sources:**
-- [Source 1]: [X] [type of data points]
-- [Source 2]: [X] [type of data points]
+**Źródła danych:**
+- [Źródło 1]: [X] [rodzaj punktów danych]
+- [Źródło 2]: [X] [rodzaj punktów danych]
 
-**Time period:** [dates]
-**Sample size:** [liczba]
-**Analysis method:** [jak analizowaliśmy]
+**Okres:** [daty]
+**Wielkość próby:** [liczba]
+**Metoda analizy:** [jak analizowaliśmy]
 
-## Finding #1: [Title]
+## Odkrycie #1: [Tytuł]
 
-[Wprowadzenie do finding]
+[Wprowadzenie do odkrycia]
 
-### The Data
+### Dane
 
 [Wykres/tabela]
 
-**What we found:**
+**Co odkryliśmy:**
 - [Szczegół 1 z %]
 - [Szczegół 2 z %]
 - [Szczegół 3 z %]
 
-### What This Means
+### Co To Oznacza
 
 [Interpretacja - 2-3 akapity]
 
-**Implications for [target audience]:**
-- [Actionable insight 1]
-- [Actionable insight 2]
+**Implikacje dla [grupy docelowej]:**
+- [Praktyczny wniosek 1]
+- [Praktyczny wniosek 2]
 
-> **Case example:** [Real example potwierdzający finding]
+> **Przykład przypadku:** [Prawdziwy przykład potwierdzający odkrycie]
 
-## Finding #2: [Title]
-
-[Powtórz strukturę]
-
-## Finding #3: [Title]
+## Odkrycie #2: [Tytuł]
 
 [Powtórz strukturę]
 
-## Comparison: [Year] vs [Previous Year]
+## Odkrycie #3: [Tytuł]
+
+[Powtórz strukturę]
+
+## Porównanie: [Rok] vs [Poprzedni Rok]
 
 [Tabela porównawcza]
 
-**Biggest changes:**
-- [Change 1]: [+/- X%] 
-- [Change 2]: [+/- X%]
+**Największe zmiany:**
+- [Zmiana 1]: [+/- X%] 
+- [Zmiana 2]: [+/- X%]
 
-**Why these shifts?**
+**Dlaczego te zmiany?**
 [Analiza przyczyn - 2-3 akapity]
 
-## Industry Breakdown
+## Podział według Branży
 
-[Jeśli dane z wielu industrii]
+[Jeśli dane z wielu branż]
 
-| Industry | Metric 1 | Metric 2 | Trend |
-|----------|----------|----------|-------|
-| [Name]   | [X%]     | [Y]      | ↗️    |
+| Branża | Metryka 1 | Metryka 2 | Trend |
+|--------|-----------|-----------|-------|
+| [Nazwa]| [X%]      | [Y]       | ↗️    |
 
-## Predictions for [Next Year]
+## Prognozy na [Następny Rok]
 
-Based on current trends:
+Na podstawie obecnych trendów:
 
-**We expect:**
-1. [Prediction 1] - [Confidence level: High/Medium/Low]
-2. [Prediction 2] - [Confidence level]
-3. [Prediction 3] - [Confidence level]
+**Spodziewamy się:**
+1. [Prognoza 1] - [Poziom pewności: Wysoki/Średni/Niski]
+2. [Prognoza 2] - [Poziom pewności]
+3. [Prognoza 3] - [Poziom pewności]
 
-## Actionable Recommendations
+## Praktyczne Rekomendacje
 
-### For [Audience Segment 1]:
-1. [Action] → [Expected result]
-2. [Action] → [Expected result]
+### Dla [Segmentu Odbiorców 1]:
+1. [Akcja] → [Oczekiwany rezultat]
+2. [Akcja] → [Oczekiwany rezultat]
 
-### For [Audience Segment 2]:
+### Dla [Segmentu Odbiorców 2]:
 [Powtórz]
 
-## Conclusion
+## Wnioski
 
 [Podsumowanie w 3-4 zdaniach]
 
-**Bottom line:** [One key takeaway]
+**Podsumowanie:** [Jeden kluczowy wniosek]
 
 ---
 
 [CTA]
-**Download Full Report (PDF)**
-Get the complete 25-page report with all data tables, charts, and extended analysis.
-[Email capture form]
+**Pobierz Pełny Raport (PDF)**
+Pobierz kompletny 25-stronicowy raport ze wszystkimi tabelami danych, wykresami i rozszerzoną analizą.
+[Formularz zbierania emaili]
 
 ---
 
-**Promotion plan:**
-- LinkedIn post with key visual
-- Twitter thread with data highlights  
-- Email to list with download link
-- Outreach do industry publications
-- Press release jeśli significant findings
+**Plan promocji:**
+- Post na LinkedIn z kluczową grafiką
+- Wątek na Twitterze z wyróżnionymi danymi
+- Email do listy z linkiem do pobrania
+- Outreach do publikacji branżowych
+- Komunikat prasowy jeśli znaczące odkrycia
 ```
 
 ---
 
-## 💼 Template 3: Case Study
+## 💼 Szablon 3: Case Study
 
 ```markdown
-# How [Client Name] [Achieved Result] in [Timeframe]
+# Jak [Nazwa Klienta] [Osiągnął Wynik] w [Czas]
 
-[Meta: [Client] increased [metric] by [X%] using [your solution]. See the strategy and results.]
+[Meta: [Klient] zwiększył [metrykę] o [X%] używając [twojego rozwiązania]. Zobacz strategię i wyniki.]
 
-## Client Overview
+## Przegląd Klienta
 
-**Industry:** [Industry]
-**Company size:** [Number] employees
-**Challenge:** [1-2 zdania o problemie]
-**Goal:** [Konkretny, mierzalny cel]
+**Branża:** [Branża]
+**Wielkość firmy:** [Liczba] pracowników
+**Wyzwanie:** [1-2 zdania o problemie]
+**Cel:** [Konkretny, mierzalny cel]
 
-## The Challenge
+## Wyzwanie
 
 [2-3 akapity szczegółowego opisu sytuacji przed]
 
-**Key problems:**
+**Kluczowe problemy:**
 - 🚫 [Problem 1 z kontekstem]
 - 🚫 [Problem 2 z kontekstem]
 - 🚫 [Problem 3 z kontekstem]
 
-> **Client quote:** "[Cytat opisujący frustration lub challenge]" - [Imię], [Stanowisko]
+> **Cytat klienta:** "[Cytat opisujący frustrację lub wyzwanie]" - [Imię], [Stanowisko]
 
-## The Strategy
+## Strategia
 
-### Phase 1: [Nazwa fazy] ([Timeframe])
+### Faza 1: [Nazwa fazy] ([Czas])
 
-**What we did:**
+**Co zrobiliśmy:**
 1. [Akcja 1]
-   - [Detail]
-   - [Detail]
+   - [Szczegół]
+   - [Szczegół]
 2. [Akcja 2]
-   - [Detail]
+   - [Szczegół]
 
-**Why this approach:**
-[Wyjaśnienie reasoning]
+**Dlaczego to podejście:**
+[Wyjaśnienie rozumowania]
 
-### Phase 2: [Nazwa fazy] ([Timeframe])
-
-[Powtórz strukturę]
-
-### Phase 3: [Nazwa fazy] ([Timeframe])
+### Faza 2: [Nazwa fazy] ([Czas])
 
 [Powtórz strukturę]
 
-## The Results
+### Faza 3: [Nazwa fazy] ([Czas])
 
-### Primary Metrics
+[Powtórz strukturę]
 
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| [Metric 1] | [X] | [Y] | **+Z%** ↗️ |
-| [Metric 2] | [X] | [Y] | **+Z%** ↗️ |
-| [Metric 3] | [X] | [Y] | **+Z%** ↗️ |
+## Wyniki
 
-[Wykres showing trend over time]
+### Podstawowe Metryki
 
-### Secondary Impact
+| Metryka | Przed | Po | Zmiana |
+|---------|-------|----|--------|
+| [Metryka 1] | [X] | [Y] | **+Z%** ↗️ |
+| [Metryka 2] | [X] | [Y] | **+Z%** ↗️ |
+| [Metryka 3] | [X] | [Y] | **+Z%** ↗️ |
 
-**We also saw:**
-- [Unexpected benefit 1]
-- [Unexpected benefit 2]
+[Wykres pokazujący trend w czasie]
 
-### Timeline
+### Dodatkowy Wpływ
 
-[Infographic/wykres showing key milestones]
-- Month 1: [Co się stało]
-- Month 3: [Co się stało]
-- Month 6: [Co się stało]
+**Zaobserwowaliśmy też:**
+- [Nieoczekiwana korzyść 1]
+- [Nieoczekiwana korzyść 2]
 
-## Key Takeaways
+### Harmonogram
 
-### What worked best:
-1. **[Tactic]** - [Why it worked + result]
-2. **[Tactic]** - [Why it worked + result]
-3. **[Tactic]** - [Why it worked + result]
+[Infografika/wykres pokazujący kluczowe kamienie milowe]
+- Miesiąc 1: [Co się stało]
+- Miesiąc 3: [Co się stało]
+- Miesiąc 6: [Co się stało]
 
-### What we learned:
-- [Lesson 1]
-- [Lesson 2]
+## Kluczowe Wnioski
 
-### What we'd do differently:
-[Honest reflection - 1-2 punkty]
+### Co działało najlepiej:
+1. **[Taktyka]** - [Dlaczego zadziałało + wynik]
+2. **[Taktyka]** - [Dlaczego zadziałało + wynik]
+3. **[Taktyka]** - [Dlaczego zadziałało + wynik]
 
-## Client Testimonial
+### Czego się nauczyliśmy:
+- [Lekcja 1]
+- [Lekcja 2]
 
-> "[Longer quote about experience and results]
+### Co zrobilibyśmy inaczej:
+[Szczera refleksja - 1-2 punkty]
+
+## Referencje Klienta
+
+> "[Dłuższy cytat o doświadczeniu i wynikach]
 > 
-> [Second paragraph of quote if needed]
+> [Drugi akapit cytatu jeśli potrzebny]
 > 
-> [Konkretny benefit or recommendation]"
+> [Konkretna korzyść lub rekomendacja]"
 >
-> **[Full Name]**  
-> [Title], [Company]
+> **[Pełne Imię i Nazwisko]**  
+> [Stanowisko], [Firma]
 
-## How This Applies To You
+## Jak To Dotyczy Ciebie
 
 [2-3 akapity o tym, kto może osiągnąć podobne rezultaty]
 
-**This strategy works best for:**
-- [Characteristic 1]
-- [Characteristic 2]
-- [Characteristic 3]
+**Ta strategia działa najlepiej dla:**
+- [Cecha 1]
+- [Cecha 2]
+- [Cecha 3]
 
-**You might see similar results if you:**
-- [Prerequisite/condition 1]
-- [Prerequisite/condition 2]
+**Możesz zobaczyć podobne wyniki jeśli:**
+- [Warunek/wymaganie 1]
+- [Warunek/wymaganie 2]
 
 ---
 
 [CTA]
-**Ready for similar results?**
+**Gotowy na podobne wyniki?**
 [2 zdania pitch]
-[Button: Get Free Audit / Schedule Call / See Pricing]
+[Przycisk: Bezpłatny audyt / Umów rozmowę / Zobacz cennik]
 
 ---
 
-**Promotion:**
-- Client approval required before publishing
-- Social tags: @client (if they agree)
-- LinkedIn article format
-- Add to portfolio page
-- Use in sales materials
+**Promocja:**
+- Wymagana zgoda klienta przed publikacją
+- Oznaczenia w social media: @klient (jeśli się zgodzi)
+- Format artykułu na LinkedIn
+- Dodaj do strony portfolio
+- Użyj w materiałach sprzedażowych
 ```
 
 ---
 
-## 📱 Template 4: LinkedIn Post (Thought Leadership)
+## 📱 Szablon 4: Post LinkedIn (Przywództwo Myślowe)
 
-### Format A: Story-Based
+### Format A: Narracyjny
 
 ```markdown
-[Hook - surprising statement or question]
+[Hook - zaskakujące stwierdzenie lub pytanie]
 
-[Empty line]
+[Pusta linia]
 
-Context in 2-3 zdania:
-[Akapit describing situation/background]
+Kontekst w 2-3 zdaniach:
+[Akapit opisujący sytuację/tło]
 
-[Empty line]
+[Pusta linia]
 
-The insight:
-[Main point - 2-3 zdania]
+Kluczowa obserwacja:
+[Główna myśl - 2-3 zdania]
 
-[Empty line]
+[Pusta linia]
 
-Why this matters:
-[Implications - 2-3 zdania]
+Dlaczego to ważne:
+[Implikacje - 2-3 zdania]
 
-[Empty line]
+[Pusta linia]
 
-My take:
-[Your opinion or recommendation]
+Moje zdanie:
+[Twoja opinia lub rekomendacja]
 
-[Empty line]
+[Pusta linia]
 
-[Pytanie do audience]
+[Pytanie do odbiorców]
 
-[Empty line]
+[Pusta linia]
 
 #[Hashtag1] #[Hashtag2] #[Hashtag3]
 
 ---
 
-**Length:** 150-250 słów
-**Best for:** Industry insights, trends, opinions
-**Posting time:** Tue-Thu, 8-10am or 4-6pm
+**Długość:** 150-250 słów
+**Najlepszy dla:** Przemyśleń branżowych, trendów, opinii
+**Czas publikacji:** Wt-Czw, 8-10 lub 16-18
 ```
 
-### Format B: Data/List-Based
+### Format B: Oparty na Danych/Listach
 
 ```markdown
-[Number] [things] [about topic] [in year]:
+[Liczba] [rzeczy] [o temacie] [w roku]:
 
-[Empty line]
+[Pusta linia]
 
-1/ [Point 1]
-→ [Expansion/data]
+1/ [Punkt 1]
+→ [Rozwinięcie/dane]
 
-[Empty line]
+[Pusta linia]
 
-2/ [Point 2]
-→ [Expansion/data]
+2/ [Punkt 2]
+→ [Rozwinięcie/dane]
 
-[Empty line]
+[Pusta linia]
 
-3/ [Point 3]
-→ [Expansion/data]
+3/ [Punkt 3]
+→ [Rozwinięcie/dane]
 
-[Empty line]
+[Pusta linia]
 
-[Continue for 5-7 points]
+[Kontynuuj dla 5-7 punktów]
 
-[Empty line]
+[Pusta linia]
 
-Bottom line:
+Podsumowanie:
 [Konkluzja w 1-2 zdaniach]
 
-[Empty line]
+[Pusta linia]
 
-What did I miss? 👇
-
-#[Hashtag1] #[Hashtag2]
-
----
-
-**Length:** 200-300 słów
-**Best for:** Tips, statistics, trends
-**Tip:** Można dodać carousel z visualami
-```
-
-### Format C: Hot Take/Contrarian
-
-```markdown
-Unpopular opinion:
-
-[Controversial statement]
-
-[Empty line]
-
-Everyone says [common belief].
-
-But here's what data actually shows:
-[Statystyka contradicting common belief]
-
-[Empty line]
-
-Here's why this matters:
-
-[2-3 akapity wyjaśnienia with examples]
-
-[Empty line]
-
-Don't get me wrong - [acknowledge valid point in common belief].
-
-But [your main argument].
-
-[Empty line]
-
-Agree or disagree? Let me know below.
+Czego mi brakuje? 👇
 
 #[Hashtag1] #[Hashtag2]
 
 ---
 
-**Length:** 150-200 słów
-**Best for:** Starting discussions, positioning as thought leader
-**Warning:** Use sparingly, must be defensible with data
+**Długość:** 200-300 słów
+**Najlepszy dla:** Wskazówek, statystyk, trendów
+**Wskazówka:** Można dodać karuzelę z wizualizacjami
+```
+
+### Format C: Kontrowersyjna Opinia
+
+```markdown
+Niepopularna opinia:
+
+[Kontrowersyjne stwierdzenie]
+
+[Pusta linia]
+
+Wszyscy mówią [powszechne przekonanie].
+
+Ale oto co dane naprawdę pokazują:
+[Statystyka przecząca powszechnemu przekonaniu]
+
+[Pusta linia]
+
+Oto dlaczego to ważne:
+
+[2-3 akapity wyjaśnienia z przykładami]
+
+[Pusta linia]
+
+Nie zrozum mnie źle - [przyznaj słuszny punkt w powszechnym przekonaniu].
+
+Ale [twój główny argument].
+
+[Pusta linia]
+
+Zgadzasz się czy nie? Daj znać poniżej.
+
+#[Hashtag1] #[Hashtag2]
+
+---
+
+**Długość:** 150-200 słów
+**Najlepszy dla:** Rozpoczynania dyskusji, pozycjonowania się jako lider opinii
+**Ostrzeżenie:** Używaj oszczędnie, musi być obronny z danymi
 ```
 
 ---
 
-## 📧 Template 5: Newsletter
+## 📧 Szablon 5: Newsletter
 
 ```markdown
-**Subject Line Options:**
-1. [Number] [things] [benefit]
-2. [Question]?
-3. [Interesting finding] (and what it means for you)
+**Opcje tematu wiadomości:**
+1. [Liczba] [rzeczy] [korzyść]
+2. [Pytanie]?
+3. [Interesujące odkrycie] (i co to oznacza dla Ciebie)
 
 ---
 
-**Preheader:** [Extension of subject - 40-60 chars]
+**Nagłówek wstępny:** [Rozwinięcie tematu - 40-60 znaków]
 
 ---
 
-Hey [First Name],
+Cześć [Imię],
 
-[1-2 zdania personal intro or context for this week]
+[1-2 zdania osobistego wstępu lub kontekstu na ten tydzień]
 
 ---
 
-## 📰 This Week's Top Story
+## 📰 Główna Historia Tego Tygodnia
 
-**[Headline]**
+**[Nagłówek]**
 
 [2-3 akapity głównej treści]
 
-[CTA button: Read full article →]
+[Przycisk CTA: Czytaj cały artykuł →]
 
 ---
 
-## 📊 By The Numbers
+## 📊 W Liczbach
 
-Quick stats you should know:
+Szybkie statystyki, które powinieneś znać:
 
-• [Stat 1] - [Source]
-• [Stat 2] - [Source]  
-• [Stat 3] - [Source]
-
----
-
-## 🛠️ Tool of the Week
-
-**[Tool Name]** - [What it does]
-
-[1-2 zdania review]
-
-Best for: [Use case]
-Price: [Pricing]
-
-[Link: Try it here →]
+• [Statystyka 1] - [Źródło]
+• [Statystyka 2] - [Źródło]  
+• [Statystyka 3] - [Źródło]
 
 ---
 
-## 📖 Worth Reading
+## 🛠️ Narzędzie Tygodnia
 
-Three articles I found valuable this week:
+**[Nazwa narzędzia]** - [Co robi]
 
-1. **[Title]** by [Author]
+[1-2 zdania recenzji]
+
+Najlepsze dla: [Przypadek użycia]
+Cena: [Cena]
+
+[Link: Wypróbuj tutaj →]
+
+---
+
+## 📖 Warte Przeczytania
+
+Trzy artykuły, które uznałem za wartościowe w tym tygodniu:
+
+1. **[Tytuł]** by [Autor]
    [1 zdanie co jest ciekawe]
    [Link]
 
-2. **[Title]** by [Author]  
+2. **[Tytuł]** by [Autor]  
    [1 zdanie]
    [Link]
 
-3. **[Title]** by [Author]
+3. **[Tytuł]** by [Autor]
    [1 zdanie]
    [Link]
 
 ---
 
-## 💭 Final Thought
+## 💭 Końcowa Refleksja
 
-[1-2 akapity personal reflection, lesson, or question]
+[1-2 akapity osobistej refleksji, lekcji lub pytania]
 
-[Signature]
+[Podpis]
 
-P.S. [Personal note lub call to action]
-
----
-
-**Footer:**
-You're receiving this because you signed up at [website].
-[Unsubscribe] | [Update preferences] | [Forward to a friend]
+P.S. [Osobista notatka lub wezwanie do działania]
 
 ---
 
-**Specs:**
-- Send day: [Day], [Time]
-- Subject A/B test: Yes/No
-- Target open rate: >25%
-- Target CTR: >3%
+**Stopka:**
+Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na [stronie internetowej].
+[Wypisz się] | [Zaktualizuj preferencje] | [Prześlij do znajomego]
+
+---
+
+**Specyfikacja:**
+- Dzień wysyłki: [Dzień], [Godzina]
+- Test A/B tematu: Tak/Nie
+- Docelowy wskaźnik otwarć: >25%
+- Docelowy CTR: >3%
 ```
 
 ---
 
-## 🏷️ Template 6: Product/Service Description
+## 🏷️ Szablon 6: Opis Produktu/Usługi
 
 ```markdown
-# [Product Name] - [Main Benefit in One Line]
+# [Nazwa Produktu] - [Główna Korzyść w Jednej Linii]
 
-## The Problem
+## Problem
 
-[2-3 zdania describing pain point]
+[2-3 zdania opisujące punkt bólu]
 
-**Sound familiar?**
-- [Situation 1 target audience experiences]
-- [Situation 2]
-- [Situation 3]
+**Brzmi znajomo?**
+- [Sytuacja 1 doświadczana przez grupę docelową]
+- [Sytuacja 2]
+- [Sytuacja 3]
 
-## The Solution
+## Rozwiązanie
 
-[Product Name] is [brief description - 1 zdanie].
+[Nazwa Produktu] to [krótki opis - 1 zdanie].
 
-**In simple terms:**
+**Mówiąc prosto:**
 [Analogia lub prosty opis jak to działa]
 
-## Key Features
+## Kluczowe Funkcje
 
-### [Feature 1 Name]
-**What it does:** [Funkcja]
-**Why it matters:** [Benefit dla usera]
-**Example:** [Konkretny use case]
+### [Nazwa Funkcji 1]
+**Co robi:** [Funkcja]
+**Dlaczego jest ważne:** [Korzyść dla użytkownika]
+**Przykład:** [Konkretny przypadek użycia]
 
-### [Feature 2 Name]
+### [Nazwa Funkcji 2]
 [Powtórz strukturę]
 
-### [Feature 3 Name]
+### [Nazwa Funkcji 3]
 [Powtórz strukturę]
 
-## Who It's For
+## Dla Kogo
 
-**Perfect if you:**
-- ✅ [Characteristic/need 1]
-- ✅ [Characteristic/need 2]
-- ✅ [Characteristic/need 3]
+**Idealne jeśli:**
+- ✅ [Cecha/potrzeba 1]
+- ✅ [Cecha/potrzeba 2]
+- ✅ [Cecha/potrzeba 3]
 
-**Not the right fit if:**
-- ❌ [Disqualifier 1]
-- ❌ [Disqualifier 2]
+**Nieodpowiednie jeśli:**
+- ❌ [Czynnik dyskwalifikujący 1]
+- ❌ [Czynnik dyskwalifikujący 2]
 
-## How It Works
+## Jak To Działa
 
-1. **[Step 1]** - [Brief description]
-2. **[Step 2]** - [Brief description]
-3. **[Step 3]** - [Brief description]
+1. **[Krok 1]** - [Krótki opis]
+2. **[Krok 2]** - [Krótki opis]
+3. **[Krok 3]** - [Krótki opis]
 
-[Prosty diagram/flowchart]
+[Prosty diagram/schemat]
 
-## Results You Can Expect
+## Wyniki, Których Możesz Oczekiwać
 
-**Typical outcomes:**
-- [Outcome 1 with timeframe]
-- [Outcome 2 with timeframe]
-- [Outcome 3 with timeframe]
+**Typowe rezultaty:**
+- [Wynik 1 z horyzontem czasowym]
+- [Wynik 2 z horyzontem czasowym]
+- [Wynik 3 z horyzontem czasowym]
 
-> **Real client:** "[Short testimonial with metric]" - [Name], [Company]
+> **Prawdziwy klient:** "[Krótka referencja z metryką]" - [Imię i Nazwisko], [Firma]
 
-## Pricing
+## Cennik
 
-**[Plan Name]** - $[Price]/[period]
-- [Feature included]
-- [Feature included]
-- [Feature included]
-[CTA: Choose Plan]
+**[Nazwa Planu]** - [Cena] zł/[okres]
+- [Funkcja w pakiecie]
+- [Funkcja w pakiecie]
+- [Funkcja w pakiecie]
+[CTA: Wybierz Plan]
 
-**[Plan Name]** - $[Price]/[period]
-- Everything in [previous plan]
-- [Additional feature]
-- [Additional feature]
-[CTA: Choose Plan] ← Most Popular
+**[Nazwa Planu]** - [Cena] zł/[okres]
+- Wszystko z [poprzedniego planu]
+- [Dodatkowa funkcja]
+- [Dodatkowa funkcja]
+[CTA: Wybierz Plan] ← Najpopularniejszy
 
-**[Plan Name]** - Custom
-- Everything in [previous plan]
-- [Additional feature]
-- [Additional feature]
-[CTA: Contact Sales]
+**[Nazwa Planu]** - Indywidualnie
+- Wszystko z [poprzedniego planu]
+- [Dodatkowa funkcja]
+- [Dodatkowa funkcja]
+[CTA: Skontaktuj się ze sprzedażą]
 
 ## FAQ
 
-### [Common question 1]?
-[Answer - 2-3 zdania]
+### [Częste pytanie 1]?
+[Odpowiedź - 2-3 zdania]
 
-### [Common question 2]?
-[Answer]
+### [Częste pytanie 2]?
+[Odpowiedź]
 
-[4-6 pytań total]
+[4-6 pytań łącznie]
 
-## Get Started
+## Zacznij
 
-[2-3 zdania final pitch]
+[2-3 zdania końcowego pitcha]
 
-[CTA Button: Start Free Trial / Request Demo / Get Quote]
+[Przycisk CTA: Zacznij Darmowy Okres Próbny / Poproś o Demo / Uzyskaj Wycenę]
 
-**No credit card required** • **Setup in 5 minutes** • **Cancel anytime**
+**Bez karty kredytowej** • **Konfiguracja w 5 minut** • **Anuluj w każdej chwili**
 
 ---
 
-**SEO Elements:**
-- Title: [Product Name] - [Benefit] | [Brand]
-- Meta: [Product description with main keyword in first 150 chars]
-- Schema: Product markup with price, ratings, availability
+**Elementy SEO:**
+- Tytuł: [Nazwa Produktu] - [Korzyść] | [Marka]
+- Meta: [Opis produktu z głównym słowem kluczowym w pierwszych 150 znakach]
+- Schema: Znacznik produktu z ceną, ocenami, dostępnością
 ```
 
 ---
 
-## 📋 Quick Reference: When to Use Which Template
+## 📋 Szybka Ściągawka: Kiedy Używać Jakiego Szablonu
 
-| Content Type | Primary Goal | Template | Typical Length |
-|--------------|-------------|----------|----------------|
-| Educational content | Traffic, authority | How-To Guide | 1500-2500 words |
-| Thought leadership | Authority, engagement | Data Report | 1000-2000 words |
-| Sales support | Convert leads | Case Study | 800-1500 words |
-| Social presence | Engagement, brand | LinkedIn Post | 150-300 words |
-| Nurturing leads | Retention, engagement | Newsletter | 500-800 words |
-| Converting visitors | Sales | Product Page | 300-600 words |
+| Typ Treści | Główny Cel | Szablon | Typowa Długość |
+|------------|------------|---------|----------------|
+| Treść edukacyjna | Ruch, autorytet | Przewodnik Jak-Zrobić | 1500-2500 słów |
+| Przywództwo myślowe | Autorytet, zaangażowanie | Raport Danych | 1000-2000 słów |
+| Wsparcie sprzedaży | Konwersja leadów | Case Study | 800-1500 słów |
+| Obecność w social media | Zaangażowanie, marka | Post LinkedIn | 150-300 słów |
+| Pielęgnowanie leadów | Retencja, zaangażowanie | Newsletter | 500-800 słów |
+| Konwersja odwiedzających | Sprzedaż | Strona Produktu | 300-600 słów |
 
 ---
 
-## 💡 Pro Tips for All Templates
+## 💡 Wskazówki dla Wszystkich Szablonów
 
-### Before Writing:
-1. Zidentyfikuj 1 primary goal
-2. Określ 1 primary CTA
-3. Research słów kluczowych (dla SEO content)
+### Przed Pisaniem:
+1. Zidentyfikuj 1 główny cel
+2. Określ 1 główne CTA
+3. Badanie słów kluczowych (dla treści SEO)
 4. Sprawdź co już istnieje na temat
 
-### While Writing:
-1. Zacznij od outline
-2. Draft bez perfekcjonizmu
-3. Dodaj concrete examples i data
+### Podczas Pisania:
+1. Zacznij od konspektu
+2. Pisz szkic bez perfekcjonizmu
+3. Dodaj konkretne przykłady i dane
 4. Każda sekcja = jeden pomysł
 
-### After Writing:
-1. Read aloud (check flow)
-2. Cut 10-20% (be ruthless)
-3. Add visual breaks (lists, quotes, bolding)
-4. SEO check (title, meta, headers)
-5. Peer review
+### Po Napisaniu:
+1. Czytaj na głos (sprawdź płynność)
+2. Przytnij 10-20% (bądź bezlitosny)
+3. Dodaj wizualne przerwy (listy, cytaty, pogrubienia)
+4. Sprawdzenie SEO (tytuł, meta, nagłówki)
+5. Przegląd przez współpracownika
 
 ---
 
-**Remember:** Templates are starting points, not prisons. Dostosuj do kontekstu, audience, i brand voice.
+**Pamiętaj:** Szablony są punktami startowymi, a nie więzieniami. Dostosuj do kontekstu, odbiorców i głosu marki.

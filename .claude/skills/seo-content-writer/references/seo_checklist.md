@@ -1,25 +1,25 @@
-# SEO Checklist - Content Optimization
+# Checklista SEO - Optymalizacja Treści
 
-## Pre-publishing SEO Checklist
+## Checklista SEO Przed Publikacją
 
 Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📋 1. Keyword Research
+## 📋 1. Badanie Słów Kluczowych
 
 - [ ] **Główne słowo kluczowe zidentyfikowane**
   - Miesięczne wyszukiwania: ___
   - Difficulty: ___
-  - Search intent: [Informational / Transactional / Navigational]
+  - Intencja wyszukiwania: [Informacyjna / Transakcyjna / Nawigacyjna]
 
-- [ ] **Secondary keywords (3-5)**
+- [ ] **Słowa kluczowe drugorzędne (3-5)**
   - _______________
   - _______________
   - _______________
 
 - [ ] **LSI keywords włączone naturalnie**
-  - Zidentyfikowane przez: [Google autocomplete / People Also Ask / Related searches]
+  - Zidentyfikowane przez: [Podpowiedzi Google / People Also Ask / Powiązane wyszukiwania]
 
 - [ ] **Analiza konkurencji top 3 wykonana**
   - Długość ich treści: ___
@@ -35,7 +35,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Pozycja: [początek / środek]
   - Długość: 50-60 znaków (___/60)
 
-- [ ] **Title jest clickable**
+- [ ] **Tytuł jest klikalny**
   - Zawiera benefit lub intrygę
   - Nie jest keyword stuffing
 
@@ -70,7 +70,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📝 3. Content Quality
+## 📝 3. Jakość Treści
 
 ### Długość i głębia
 - [ ] **Długość odpowiednia do tematyki**
@@ -83,12 +83,12 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Pokrywa subtopics z top 3
   - Dodaje unikalną wartość
 
-### Search Intent
-- [ ] **Treść odpowiada na search intent**
-  - Format: [Guide / List / Review / Comparison / Tutorial]
-  - Typ: [Informational / Commercial / Transactional]
+### Intencja Wyszukiwania
+- [ ] **Treść odpowiada na intencję wyszukiwania**
+  - Format: [Przewodnik / Lista / Recenzja / Porównanie / Poradnik]
+  - Typ: [Informacyjny / Komercyjny / Transakcyjny]
 
-### Readability
+### Czytelność
 - [ ] **Flesch Reading Ease: 60-70**
   - Sprawdzone w: [narzędzie]
   - Score: ___
@@ -101,15 +101,15 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 ### Unikatowość
 - [ ] **Content 100% unikalny**
   - Sprawdzony w: [narzędzie]
-  - Plagiarism score: ___%
+  - Wynik sprawdzania plagiatu: ___%
 
 ---
 
-## 🔗 4. Internal & External Links
+## 🔗 4. Linki Wewnętrzne i Zewnętrzne
 
-### Internal Links
+### Linki Wewnętrzne
 - [ ] **3-5 linków wewnętrznych dodanych**
-  - Do related content
+  - Do powiązanych treści
   - Z opisowym anchor text
   - Do stron wyżej/niżej w lejku
 
@@ -117,7 +117,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Naturalnie wplecione w treść
   - Dodają wartość dla czytelnika
 
-### External Links
+### Linki Zewnętrzne
 - [ ] **2-4 linki zewnętrzne do autorytetów**
   - Do źródeł danych/statystyk
   - Do definicji/badań
@@ -132,7 +132,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 🖼️ 5. Images & Media
+## 🖼️ 5. Obrazy i Media
 
 ### Optymalizacja obrazów
 - [ ] **Każdy obraz ma alt text**
@@ -150,9 +150,9 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Używaj lazy loading
 
 ### Dodatkowe media
-- [ ] **Featured image dodany**
+- [ ] **Miniatura artykułu (featured image) dodana**
   - Rozmiar: 1200x628px (dla social)
-  - Zawiera branding/tekst overlay
+  - Zawiera logo marki/nakładkę tekstową
 
 - [ ] **Schemat dodany (jeśli wideo)**
   - VideoObject schema
@@ -174,11 +174,11 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 🎯 7. User Experience
+## 🎯 7. Doświadczenie Użytkownika
 
 ### CTA (Call to Action)
 - [ ] **Główne CTA widoczne**
-  - W pierwszej sekcji (above the fold)
+  - W pierwszej sekcji (nad linią zgięcia)
   - Na końcu artykułu
   - W 1-2 miejscach w środku (dla długich treści)
 
@@ -186,33 +186,33 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Nie: "Kliknij tutaj"
   - Tak: "Pobierz darmowy checklist SEO"
 
-### Navigation
-- [ ] **Table of Contents dodany** (dla treści 1500+ słów)
+### Nawigacja
+- [ ] **Spis treści dodany** (dla treści 1500+ słów)
   - Linkuje do H2
   - Klikalne anchor links
 
-- [ ] **Breadcrumbs dodane**
+- [ ] **Ścieżka nawigacji (breadcrumbs) dodana**
   - Pokazują hierarchię
   - Zawierają schema
 
 ### Mobile
 - [ ] **Treść zoptymalizowana mobile**
   - Sprawdzone w Mobile-Friendly Test
-  - Font size 16px minimum
-  - Touch targets > 48x48px
+  - Minimalna wielkość czcionki 16px
+  - Cele dotykowe > 48x48px
 
 ---
 
 ## 🚀 8. Technical SEO
 
-### Page Speed
+### Szybkość Strony
 - [ ] **Core Web Vitals w normie**
   - LCP < 2.5s
   - FID < 100ms
   - CLS < 0.1
   - Sprawdzone w: PageSpeed Insights
 
-### Crawlability
+### Indeksowalność
 - [ ] **Strona nie ma noindex**
 - [ ] **Robots.txt nie blokuje**
 - [ ] **Canonical tag poprawny**
@@ -224,7 +224,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## 📱 9. Social Media Optimization
+## 📱 9. Optymalizacja na Potrzeby Social Media
 
 ### Open Graph
 - [ ] **OG tags dodane**
@@ -247,9 +247,9 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 
 ---
 
-## ✅ 10. Final Checks
+## ✅ 10. Ostateczna Weryfikacja
 
-### Content Review
+### Weryfikacja Treści
 - [ ] **Sprawdzenie pisowni i gramatyki**
   - Grammarly / LanguageTool
   - Errors: 0
@@ -259,7 +259,7 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Daty są aktualne
   - Linki działają
 
-### SEO Tools Check
+### Sprawdzenie Narzędzi SEO
 - [ ] **Sprawdzony w Yoast/RankMath**
   - SEO Score > 80/100
   - Readability > 60/100
@@ -268,45 +268,45 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
   - Brak duplikatów title/meta
   - Wszystkie linki działają
 
-### Publishing
+### Publikacja
 - [ ] **Data publikacji ustawiona**
 - [ ] **Kategoria/tagi przypisane**
 - [ ] **Autor przypisany**
 
 ---
 
-## 📊 Post-Publishing Tasks
+## 📊 Zadania Po Publikacji
 
 ### Monitoring (pierwsze 7 dni)
 - [ ] **Sprawdź indexowanie**
   - site:twoj-url.com/nowy-artykul
-  - Request indexing w GSC
+  - Zgłoś do indeksowania w GSC
 
 - [ ] **Monitoruj pozycje**
   - Główne słowo kluczowe
-  - Top 3 secondary keywords
+  - 3 najważniejsze słowa kluczowe drugorzędne
 
-- [ ] **Sprawdź User Metrics**
-  - Avg. Time on Page
-  - Bounce Rate
-  - Scroll depth
+- [ ] **Sprawdź metryki użytkowników**
+  - Średni czas na stronie
+  - Współczynnik odrzuceń
+  - Głębokość przewijania
 
-### Promotion
+### Promocja
 - [ ] **Social media posts**
   - LinkedIn
   - Twitter
-  - Facebook Groups (jeśli relevantne)
+  - Grupy Facebook (jeśli relewantne)
 
 - [ ] **Newsletter mention** (jeśli pasuje)
 
-- [ ] **Internal linking z nowych artykułów**
+- [ ] **Linkowanie wewnętrzne z nowych artykułów**
   - Dodaj link z 2-3 related posts
 
 ---
 
-## 🎯 Advanced Optimizations (opcjonalne)
+## 🎯 Zaawansowane Optymalizacje (opcjonalne)
 
-### Rich Snippets
+### Bogate Fragmenty (Rich Snippets)
 - [ ] **FAQ schema dodane**
   - Minimum 3 pytania
   - Maksimum 10 pytań
@@ -318,44 +318,44 @@ Użyj tej checklisty dla każdego materiału przed publikacją.
 ### Featured Snippets
 - [ ] **Optymalizacja pod featured snippet**
   - Identyfikacja możliwości (pozycja 2-5)
-  - Format: Paragraph / List / Table
+  - Format: Akapit / Lista / Tabela
   - Bezpośrednia odpowiedź w 40-60 słów
 
-### Video
-- [ ] **Video dodane** (jeśli pasuje)
-  - Własne lub embedded YouTube
-  - Video schema dodane
-  - Transcript dodany
+### Wideo
+- [ ] **Wideo dodane** (jeśli pasuje)
+  - Własne lub osadzone z YouTube
+  - Schema wideo dodana
+  - Transkrypt dodany
 
 ---
 
-## Template do kopiowania
+## Szablon do skopiowania
 
 ```markdown
-## SEO Checklist for: [Tytuł artykułu]
+## Checklista SEO dla: [Tytuł artykułu]
 
-**Target keyword:** ___________
-**Monthly searches:** ___
-**Difficulty:** ___
+**Docelowe słowo kluczowe:** ___________
+**Miesięczne wyszukiwania:** ___
+**Trudność:** ___
 **URL:** ___________
 
-### Quick Status:
-- [ ] Keyword research ✓
-- [ ] On-page SEO ✓
-- [ ] Content quality ✓
-- [ ] Links ✓
-- [ ] Images ✓
+### Szybki Status:
+- [ ] Badanie słów kluczowych ✓
+- [ ] SEO on-page ✓
+- [ ] Jakość treści ✓
+- [ ] Linki ✓
+- [ ] Obrazy ✓
 - [ ] Schema ✓
 - [ ] UX ✓
-- [ ] Technical ✓
+- [ ] Techniczne ✓
 - [ ] Social ✓
-- [ ] Final checks ✓
+- [ ] Ostateczna weryfikacja ✓
 
-**Published:** [data]
-**GSC submitted:** [data]
-**Initial position (day 7):** ___
+**Opublikowano:** [data]
+**Zgłoszono w GSC:** [data]
+**Pozycja początkowa (dzień 7):** ___
 
-**Notes:**
+**Uwagi:**
 _______________
 ```
 
@@ -363,21 +363,21 @@ _______________
 
 ## Narzędzia pomocnicze
 
-### Must-have:
+### Niezbędne:
 - Google Search Console
 - Google Analytics 4
 - PageSpeed Insights
 - Mobile-Friendly Test
 - Rich Results Test
 
-### Recommended:
+### Zalecane:
 - Screaming Frog (technical audits)
 - Ahrefs/Semrush (keywords & backlinks)
 - Grammarly (content quality)
 - TinyPNG (image compression)
 - Schema Markup Generator
 
-### Useful:
+### Przydatne:
 - AnswerThePublic (questions)
 - AlsoAsked (related questions)
 - Hemingway Editor (readability)

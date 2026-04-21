@@ -15,7 +15,7 @@ permissions:
   write: ["*.md", "*.txt", "*.html"]
 invocation: "both"
 version: "2026.1.0"
-platform: ["claude-code", "codex", "chatgpt"]
+platform: ["claude-code"]
 dependencies: []
 mcp_connectors: []
 author: "Krzysztof Radzikowski"

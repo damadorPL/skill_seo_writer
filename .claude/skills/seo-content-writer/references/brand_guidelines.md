@@ -1,5 +1,7 @@
 # Wytyczne marki – treści marketingowe
 
+> **Uwaga:** To jest szablon do wypełnienia. Wszystkie pola w nawiasach kwadratowych `[...]` należy zastąpić danymi swojej firmy przed użyciem. Pola z przykładami oznaczają fragmenty do edycji lub usunięcia.
+
 ## 🎨 Tożsamość marki
 
 ### Kim jesteśmy

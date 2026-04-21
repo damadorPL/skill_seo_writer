@@ -36,20 +36,11 @@ unzip seo-writer.zip
 mv skill_seo_writer-main ~/.claude/skills/seo-content-writer
 ```
 
-3. Zrestartuj Claude Code lub przeładuj skills:
-
-```bash
-# Claude Code automatycznie wykryje nowy skill
-claude-code --reload-skills
-```
+3. Zrestartuj Claude Code — skill zostanie wykryty automatycznie przy kolejnym uruchomieniu.
 
 ### Dla innych platform AI
 
-Ten skill jest zgodny z otwartym standardem SKILL.md i działa z:
-- Claude Code
-- Codex
-- ChatGPT (z obsługą skills)
-- Każdym narzędziem obsługującym format SKILL.md
+Pliki referencyjne (`references/`) są w formacie Markdown i mogą być użyte jako kontekst systemowy w dowolnym narzędziu AI obsługującym format SKILL.md.
 
 ## Użycie
 
@@ -65,49 +56,46 @@ Skill aktywuje się automatycznie, gdy użyjesz fraz takich jak:
 
 ### Ręczne wywołanie
 
-```bash
-# Używając Claude Code
-claude-code "Użyj skill seo-content-writer aby stworzyć post blogowy o 'AI w Content Marketingu'"
-
-# Lub jawne wywołanie
-claude-code "@seo-content-writer Napisz kompleksowy przewodnik o technical SEO"
+```
+# Jawne wywołanie przez slash command
+/seo-content-writer Napisz kompleksowy przewodnik o technical SEO
 ```
 
 ## Przykładowe zastosowania
 
 ### 1. Tworzenie artykułu blogowego
 
-```bash
-claude-code "Napisz zoptymalizowany pod SEO artykuł blogowy o 'Trendy w Content Marketingu 2026'
+```
+Napisz zoptymalizowany pod SEO artykuł blogowy o 'Trendy w Content Marketingu 2026'
 - Słowo kluczowe: trendy content marketing
 - Długość: 2000-2500 słów
 - Uwzględnij dane i statystyki
-- Użyj szablonu How-To Guide"
+- Użyj szablonu How-To Guide
 ```
 
 ### 2. Post na LinkedIn
 
-```bash
-claude-code "Stwórz post na LinkedIn o znaczeniu Core Web Vitals
+```
+Stwórz post na LinkedIn o znaczeniu Core Web Vitals
 - Użyj tonu B2B
 - Dodaj przykład case study
-- Dodaj odpowiednie hashtagi"
+- Dodaj odpowiednie hashtagi
 ```
 
 ### 3. Opis produktu
 
-```bash
-claude-code "Napisz opis produktu dla 'Usługa audytu SEO'
+```
+Napisz opis produktu dla 'Usługa audytu SEO'
 - Grupa docelowa: firmy B2B
 - Uwzględnij korzyści i specyfikację
-- Zoptymalizuj pod słowo 'audyt seo'"
+- Zoptymalizuj pod słowo 'audyt seo'
 ```
 
 ### 4. Audyt treści
 
-```bash
-claude-code "Przeprowadź audyt tego artykułu względem checklisty SEO
-i podaj konkretne rekomendacje ulepszeń"
+```
+Przeprowadź audyt tego artykułu względem checklisty SEO
+i podaj konkretne rekomendacje ulepszeń
 ```
 
 ## Struktura skilla
@@ -186,25 +174,24 @@ triggers:
 
 ### Kompletny proces tworzenia treści
 
-```bash
+```
 # Krok 1: Research i planowanie
-claude-code "Zbadaj temat 'Technical SEO dla E-commerce'
+Zbadaj temat 'Technical SEO dla E-commerce'
 - Przeanalizuj top 10 wyników w Google
 - Zidentyfikuj luki w treści
-- Zaproponuj outline"
+- Zaproponuj outline
 
 # Krok 2: Stwórz brief
-claude-code "Stwórz brief treści na podstawie researchu"
+Stwórz brief treści na podstawie researchu
 
 # Krok 3: Napisz treść
-claude-code "Napisz artykuł zgodnie z briefem i checklistą SEO"
+Napisz artykuł zgodnie z briefem i checklistą SEO
 
 # Krok 4: Optymalizuj
-claude-code "Przejrzyj artykuł względem seo_checklist.md
-i zoptymalizuj punkt po punkcie"
+Przejrzyj artykuł względem seo_checklist.md i zoptymalizuj punkt po punkcie
 
 # Krok 5: Finalna weryfikacja
-claude-code "Przeprowadź finalną kontrolę jakości względem wszystkich wytycznych"
+Przeprowadź finalną kontrolę jakości względem wszystkich wytycznych
 ```
 
 ## Standardy jakości
@@ -233,11 +220,11 @@ Treści tworzone z użyciem tego skilla spełniają rygorystyczne kryteria jako�
 
 ## Metryki wydajności
 
-Oczekiwane ulepszenia przy użyciu tego skilla:
-- **Wydajność**: 40% szybsze tworzenie treści
-- **Spójność**: 60% poprawa spójności głosu marki
-- **Jakość**: Średni wynik SEO 85+/100
+Docelowe standardy jakości treści tworzonych z użyciem tego skilla:
 - **Czytelność**: Flesch Reading Ease 60-70
+- **SEO**: Wynik Yoast/RankMath > 80/100
+- **Długość artykułów**: dopasowana do top 3 konkurentów w SERP
+- **Meta description**: 150-160 znaków z głównym słowem kluczowym
 
 ## Współpraca
 
@@ -252,10 +239,7 @@ Zachęcamy do współpracy! Aby wnieść wkład:
 ## Kompatybilność
 
 - **Claude Code**: Pełne wsparcie (standard 2026)
-- **Claude.ai Skills**: Kompatybilny
-- **Codex**: Kompatybilny z formatem SKILL.md
-- **ChatGPT**: Kompatybilny (z obsługą skills)
-- **Inne platformy**: Każde narzędzie obsługujące standard SKILL.md
+- **Inne platformy**: Pliki referencyjne w formacie Markdown są niezależne od platformy i mogą być użyte jako kontekst w dowolnym narzędziu AI
 
 ## Historia wersji
 
